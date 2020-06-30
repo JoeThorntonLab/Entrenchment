@@ -1,0 +1,532 @@
+yourlist:M20190514216DA2B77BFBD2E6699CA9B6D1C41EB217BE5C9	Entry	Entry name	Status	Protein names	Gene names	Organism	Length
+13gs	P09211	GSTP1_HUMAN	reviewed	Glutathione S-transferase P (EC 2.5.1.18) (GST class-pi) (GSTP1-1)	GSTP1 FAEES3 GST3	Homo sapiens (Human)	210
+1a0f	P0A9D2	GSTA_ECOLI	reviewed	Glutathione S-transferase GstA (EC 2.5.1.18) (GST B1-1)	gstA gst b1635 JW1627	Escherichia coli (strain K12)	201
+1a27	P14061	DHB1_HUMAN	reviewed	Estradiol 17-beta-dehydrogenase 1 (EC 1.1.1.62) (17-beta-hydroxysteroid dehydrogenase type 1) (17-beta-HSD 1) (20 alpha-hydroxysteroid dehydrogenase) (20-alpha-HSD) (E2DH) (Placental 17-beta-hydroxysteroid dehydrogenase) (Short chain dehydrogenase/reductase family 28C member 1)	HSD17B1 E17KSR EDH17B1 EDH17B2 EDHB17 SDR28C1	Homo sapiens (Human)	328
+1a4x	P39765	PYRR_BACSU	reviewed	Bifunctional protein PyrR [Includes: Pyrimidine operon regulatory protein; Uracil phosphoribosyltransferase (UPRTase) (EC 2.4.2.9)]	pyrR BSU15470	Bacillus subtilis (strain 168)	181
+1a59	O34002	PRPC_ABDS2	reviewed	2-methylcitrate synthase (2-MCS) (MCS) (EC 2.3.3.5) (Citrate synthase) (EC 2.3.3.16)	gltA cisY	Antarctic bacterium DS2-3R	379
+1ac6	P06323	TVA3_MOUSE	reviewed	T-cell receptor alpha chain V region CTL-F3		Mus musculus (Mouse)	132
+1ac6	Q5R1F5	Q5R1F5_MOUSE	unreviewed	TRAV6D-7 (Fragment)	TRAV6D-7	Mus musculus (Mouse)	112
+1ad3	P11883	AL3A1_RAT	reviewed	Aldehyde dehydrogenase, dimeric NADP-preferring (EC 1.2.1.5) (Aldehyde dehydrogenase family 3 member A1) (HTC-ALDH) (Tumor-associated aldehyde dehydrogenase)	Aldh3a1 Aldd Aldh3	Rattus norvegicus (Rat)	453
+1afw	P27796	THIK_YEAST	reviewed	3-ketoacyl-CoA thiolase, peroxisomal (EC 2.3.1.16) (Acetyl-CoA acyltransferase) (Beta-ketothiolase) (Peroxisomal 3-oxoacyl-CoA thiolase)	POT1 FOX3 POX3 YIL160C	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	417
+1ah8	P02829	HSP82_YEAST	reviewed	ATP-dependent molecular chaperone HSP82 (82 kDa heat shock protein) (Heat shock protein Hsp90 heat-inducible isoform)	HSP82 HSP90 YPL240C	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	709
+1aj8	Q53554	CISY_PYRFU	reviewed	Citrate synthase (EC 2.3.3.16)	gltA PF0203	Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1)	377
+1ajs	P00503	AATC_PIG	reviewed	Aspartate aminotransferase, cytoplasmic (cAspAT) (EC 2.6.1.1) (EC 2.6.1.3) (Cysteine aminotransferase, cytoplasmic) (Cysteine transaminase, cytoplasmic) (cCAT) (Glutamate oxaloacetate transaminase 1) (Transaminase A)	GOT1	Sus scrofa (Pig)	413
+1an8	Q8NKX2	SPEC_STRP8	reviewed	Exotoxin type C (SPE C)	speC spyM18_0778	Streptococcus pyogenes serotype M18 (strain MGAS8232)	235
+1ang	P03950	ANGI_HUMAN	reviewed	Angiogenin (EC 3.1.27.-) (Ribonuclease 5) (RNase 5)	ANG RNASE5	Homo sapiens (Human)	147
+1aoj	Q08509	EPS8_MOUSE	reviewed	Epidermal growth factor receptor kinase substrate 8	Eps8	Mus musculus (Mouse)	821
+1aoz	P37064	ASO_CUCPM	reviewed	L-ascorbate oxidase (ASO) (Ascorbase) (EC 1.10.3.3)		Cucurbita pepo var. melopepo (Zucchini)	552
+1asu	O92956	POL_RSVSB	reviewed	Gag-Pol polyprotein [Cleaved into: Matrix protein p19; p2A; p2B; p10; Capsid protein p27, alternate cleaved 1; Capsid protein p27, alternate cleaved 2; p3; Nucleocapsid protein p12; Protease p15 (EC 3.4.23.-); Reverse transcriptase beta-subunit (RT-beta); Reverse transcriptase alpha-subunit (RT-alpha) (EC 2.7.7.49) (EC 2.7.7.7) (EC 3.1.26.4); Integrase (IN) (EC 2.7.7.-) (EC 3.1.-.-) (pp32); p4]	gag-pol	Rous sarcoma virus (strain Schmidt-Ruppin B) (RSV-SRB)	1603
+1ax0	P16404	LEC_ERYCO	reviewed	Lectin (ECorL)		Erythrina corallodendron (Coral tree)	281
+1axd	P12653	GSTF1_MAIZE	reviewed	Glutathione S-transferase 1 (EC 2.5.1.18) (GST class-phi member 1) (GST-29) (GST-I)	GST1	Zea mays (Maize)	214
+1ay2	P02974	FMM1_NEIGO	reviewed	Fimbrial protein (MS11 antigen) (Pilin)	pilE1	Neisseria gonorrhoeae	165
+1azy	P07650	TYPH_ECOLI	reviewed	Thymidine phosphorylase (EC 2.4.2.4) (TdRPase)	deoA tpp ttg b4382 JW4345	Escherichia coli (strain K12)	440
+1b0x	Q03137	EPHA4_MOUSE	reviewed	Ephrin type-A receptor 4 (EC 2.7.10.1) (Tyrosine-protein kinase receptor MPK-3) (Tyrosine-protein kinase receptor SEK-1)	Epha4 Sek Sek1	Mus musculus (Mouse)	986
+1b49	P08773	DCHM_BPT4	reviewed	Deoxycytidylate 5-hydroxymethyltransferase (Deoxycytidylate hydroxymethylase) (EC 2.1.2.8) (dCMP hydroxymethylase) (dCMP HMase)	42	Enterobacteria phage T4 (Bacteriophage T4)	246
+1b5o	Q56232	AAT_THET8	reviewed	Aspartate aminotransferase (AspAT) (EC 2.6.1.1) (Transaminase A)	aspC TTHA0046	Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)	385
+1b78	Q57679	IXTPA_METJA	reviewed	dITP/XTP pyrophosphatase (EC 3.6.1.66) (Hypoxanthine/xanthine dNTP pyrophosphatase) (Non-canonical purine NTP pyrophosphatase) (Non-standard purine NTP pyrophosphatase) (Nucleoside-triphosphate diphosphatase) (Nucleoside-triphosphate pyrophosphatase) (NTPase) (Nucleotide triphosphatase)	MJ0226	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) (Methanococcus jannaschii)	185
+1b9i	O52552	RIFK_AMYMS	reviewed	3-amino-5-hydroxybenzoate synthase (AHBA synthase) (EC 4.2.1.144) (Putative UDP-kanosamine synthase aminotransferase subunit) (EC 2.6.1.-)	rifK rifD RAM_03205 AMES_0625	Amycolatopsis mediterranei (strain S699) (Nocardia mediterranei)	388
+1bbh	P00154	CYCP_ALLVD	reviewed	Cytochrome c'	cycA Alvin_2765	Allochromatium vinosum (strain ATCC 17899 / DSM 180 / NBRC 103801 / NCIMB 10441 / D) (Chromatium vinosum)	154
+1bbu	P0A8N3	SYK1_ECOLI	reviewed	Lysine--tRNA ligase (EC 6.1.1.6) (Lysyl-tRNA synthetase) (LysRS)	lysS asuD herC b2890 JW2858	Escherichia coli (strain K12)	505
+1bd9	P30086	PEBP1_HUMAN	reviewed	Phosphatidylethanolamine-binding protein 1 (PEBP-1) (HCNPpp) (Neuropolypeptide h3) (Prostatic-binding protein) (Raf kinase inhibitor protein) (RKIP) [Cleaved into: Hippocampal cholinergic neurostimulating peptide (HCNP)]	PEBP1 PBP PEBP	Homo sapiens (Human)	187
+1bet	P01139	NGF_MOUSE	reviewed	Beta-nerve growth factor (Beta-NGF)	Ngf Ngfb	Mus musculus (Mouse)	241
+1bg5	P08515	GST26_SCHJA	reviewed	Glutathione S-transferase class-mu 26 kDa isozyme (GST 26) (EC 2.5.1.18) (Sj26 antigen) (SjGST)		Schistosoma japonicum (Blood fluke)	218
+1bhy	Q51225	Q51225_NEIME	unreviewed	Dihydrolipoyl dehydrogenase (EC 1.8.1.4)	m-6	Neisseria meningitidis	594
+1bjf	P61602	NCALD_BOVIN	reviewed	Neurocalcin-delta	NCALD	Bos taurus (Bovine)	193
+1bk5	Q02821	IMA1_YEAST	reviewed	Importin subunit alpha (Karyopherin subunit alpha) (Karyopherin-60) (Serine-rich RNA polymerase I suppressor protein)	SRP1 KAP60 YNL189W N1606	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	542
+1bo4	Q53396	Q53396_SERMA	unreviewed	Aminoglycoside-(3)-N-acetyltransferase	aacC1	Serratia marcescens	177
+1bsf	P0CI79	TYSY1_BACSU	reviewed	Thymidylate synthase 1 (TS 1) (TSase 1) (EC 2.1.1.45) (Thymidylate synthase A) (TS A) (TSase A)	thyA1 BSU17680	Bacillus subtilis (strain 168)	279
+1bt4	Q59196	SERC_BACCI	reviewed	Phosphoserine aminotransferase (EC 2.6.1.52) (Phosphohydroxythreonine aminotransferase) (PSAT)	serC	Bacillus circulans	362
+1buo	Q05516	ZBT16_HUMAN	reviewed	Zinc finger and BTB domain-containing protein 16 (Promyelocytic leukemia zinc finger protein) (Zinc finger protein 145) (Zinc finger protein PLZF)	ZBTB16 PLZF ZNF145	Homo sapiens (Human)	673
+1c1l	P26788	LEG1_CONMY	reviewed	Congerin-1 (Beta-galactoside-binding lectin 1) (Congerin I)		Conger myriaster (Conger eel)	135
+1c6o	P57736	CYC6_TETOB	reviewed	Cytochrome c6 (Cytochrome c-553) (Cytochrome c553) (Soluble cytochrome f)	petJ	Tetradesmus obliquus (Green alga) (Acutodesmus obliquus)	89
+1c80	P07953	F261_RAT	reviewed	6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 1 (6PF-2-K/Fru-2,6-P2ase 1) (PFK/FBPase 1) (6PF-2-K/Fru-2,6-P2ase liver isozyme) [Includes: 6-phosphofructo-2-kinase (EC 2.7.1.105); Fructose-2,6-bisphosphatase (EC 3.1.3.46)]	Pfkfb1	Rattus norvegicus (Rat)	471
+1cbg	P26205	BGLT_TRIRP	reviewed	Cyanogenic beta-glucosidase (EC 3.2.1.21) (Linamarase) (Fragment)	LI	Trifolium repens (Creeping white clover)	425
+1cc5	P11732	CYC5_AZOVI	reviewed	Cytochrome c5		Azotobacter vinelandii	83
+1cd8	P01732	CD8A_HUMAN	reviewed	T-cell surface glycoprotein CD8 alpha chain (T-lymphocyte differentiation antigen T8/Leu-2) (CD antigen CD8a)	CD8A MAL	Homo sapiens (Human)	235
+1cdc	P08921	CD2_RAT	reviewed	T-cell surface antigen CD2 (LFA-2) (LFA-3 receptor) (OX-34 antigen) (T-cell surface antigen T11/Leu-5) (CD antigen CD2)	Cd2	Rattus norvegicus (Rat)	344
+1ci7	P13100	TYSY_PNECA	reviewed	Thymidylate synthase (TS) (TSase) (EC 2.1.1.45)	THYA	Pneumocystis carinii	297
+1civ	P46489	MDHP_FLABI	reviewed	Malate dehydrogenase [NADP], chloroplastic (EC 1.1.1.82) (NADP-MDH)		Flaveria bidentis (Coastal plain yellowtops) (Ethulia bidentis)	453
+1cm9	Q98157	VMI2_HHV8P	reviewed	Viral macrophage inflammatory protein 2 (Viral macrophage inflammatory protein II) (vMIP-II) (vMIP-1B)	ORF K4	Human herpesvirus 8 type P (isolate GK18) (HHV-8) (Kaposi's sarcoma-associated herpesvirus)	94
+1coz	P27623	TAGD_BACSU	reviewed	Glycerol-3-phosphate cytidylyltransferase (GCT) (GCTase) (Gro-PCT) (EC 2.7.7.39) (CDP-glycerol pyrophosphorylase) (Teichoic acid biosynthesis protein D)	tagD BSU35740	Bacillus subtilis (strain 168)	129
+1cz3	Q60034	DYR_THEMA	reviewed	Dihydrofolate reductase (DHFR) (EC 1.5.1.3)	folA dyrA TM_1641	Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)	169
+1d1l	P03040	RCRO_LAMBD	reviewed	Regulatory protein cro	cro lambdap57	Escherichia phage lambda (Bacteriophage lambda)	66
+1d2f	P23256	MALY_ECOLI	reviewed	Protein MalY [Includes: Cystathionine beta-lyase MalY (CBL) (EC 4.4.1.13) (Beta-cystathionase MalY) (Cysteine lyase MalY) (Cysteine-S-conjugate beta-lyase MalY); Maltose regulon modulator]	malY b1622 JW1614	Escherichia coli (strain K12)	390
+1d6f	P30074	CHS2_MEDSA	reviewed	Chalcone synthase 2 (EC 2.3.1.74) (Naringenin-chalcone synthase 2)	CHS2	Medicago sativa (Alfalfa)	389
+1d6s	P0A1E3	CYSK_SALTY	reviewed	Cysteine synthase A (CSase A) (EC 2.5.1.47) (O-acetylserine (thiol)-lyase A) (OAS-TL A) (O-acetylserine sulfhydrylase A)	cysK STM2430	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	323
+1d7y	Q52437	Q52437_PSES1	unreviewed	Ferredoxin reductase	bphA4	Pseudomonas sp. (strain KKS102)	408
+1d9c	P07353	IFNG_BOVIN	reviewed	Interferon gamma (BoIFNG) (IFN-gamma)	IFNG	Bos taurus (Bovine)	166
+1dak	P13000	BIOD1_ECOLI	reviewed	ATP-dependent dethiobiotin synthetase BioD 1 (EC 6.3.3.3) (DTB synthetase 1) (DTBS 1) (Dethiobiotin synthase)	bioD1 b0778 JW0761	Escherichia coli (strain K12)	225
+1dap	P04964	DAPDH_CORGL	reviewed	Meso-diaminopimelate D-dehydrogenase (DAPDH) (Meso-DAP dehydrogenase) (EC 1.4.1.16)	ddh Cgl2617 cg2900	Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025)	320
+1dcf	P49333	ETR1_ARATH	reviewed	Ethylene receptor 1 (AtETR1) (EC 2.7.13.3) (Protein ETHYLENE RESPONSE 1) (Protein ETR1)	ETR1 At1g66340 T27F4.9	Arabidopsis thaliana (Mouse-ear cress)	738
+1dhr	P11348	DHPR_RAT	reviewed	Dihydropteridine reductase (EC 1.5.1.34) (HDHPR) (Quinoid dihydropteridine reductase)	Qdpr Dhpr	Rattus norvegicus (Rat)	241
+1dk4	Q57573	BSUHB_METJA	reviewed	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase (FBPase/IMPase) (EC 3.1.3.11) (EC 3.1.3.25) (Inositol-1-phosphatase) (I-1-Pase)	suhB MJ0109	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) (Methanococcus jannaschii)	252
+1doe	P20586	PHHY_PSEAE	reviewed	p-hydroxybenzoate hydroxylase (PHBH) (EC 1.14.13.2) (4-hydroxybenzoate 3-monooxygenase)	pobA PA0247	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	394
+1dos	P0AB71	ALF_ECOLI	reviewed	Fructose-bisphosphate aldolase class 2 (FBP aldolase) (FBPA) (EC 4.1.2.13) (Fructose-1,6-bisphosphate aldolase) (Fructose-bisphosphate aldolase class II)	fbaA fba fda b2925 JW2892	Escherichia coli (strain K12)	359
+1dqp	Q24973	Q24973_GIAIN	unreviewed	Guanine phosphoribosyltransferase		Giardia intestinalis (Giardia lamblia)	230
+1dto	P03120	VE2_HPV16	reviewed	Regulatory protein E2	E2	Human papillomavirus type 16	365
+1dty	P12995	BIOA_ECOLI	reviewed	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62) (7,8-diamino-pelargonic acid aminotransferase) (DAPA AT) (DAPA aminotransferase) (7,8-diaminononanoate synthase) (DANS) (Diaminopelargonic acid synthase)	bioA b0774 JW0757	Escherichia coli (strain K12)	429
+1dvb	P24931	RUBY_DESVH	reviewed	Rubrerythrin (Rr)	rbr DVU_3094	Desulfovibrio vulgaris (strain Hildenborough / ATCC 29579 / DSM 644 / NCIMB 8303)	191
+1dwv	P29477	NOS2_MOUSE	reviewed	Nitric oxide synthase, inducible (EC 1.14.13.39) (Inducible NO synthase) (Inducible NOS) (iNOS) (Macrophage NOS) (MAC-NOS) (NOS type II) (Peptidyl-cysteine S-nitrosylase NOS2)	Nos2 Inosl	Mus musculus (Mouse)	1144
+1dxx	P11532	DMD_HUMAN	reviewed	Dystrophin	DMD	Homo sapiens (Human)	3685
+1dxy	P17584	DHD2_LACPA	reviewed	D-2-hydroxyisocaproate dehydrogenase (D-HICDH) (EC 1.1.1.-)		Lactobacillus paracasei	333
+1dz3	P52934	SP0A_GEOSE	reviewed	Stage 0 sporulation protein A	spo0A	Geobacillus stearothermophilus (Bacillus stearothermophilus)	259
+1e3i	Q9QYY9	ADH4_MOUSE	reviewed	Alcohol dehydrogenase 4 (EC 1.1.1.1) (ADH2) (Alcohol dehydrogenase class II) (Alcohol dehydrogenase II)	Adh4	Mus musculus (Mouse)	377
+1e3v	P07445	SDIS_PSEPU	reviewed	Steroid Delta-isomerase (EC 5.3.3.1) (Delta(5)-3-ketosteroid isomerase)	ksi	Pseudomonas putida (Arthrobacter siderocapsulatus)	131
+1e58	P62707	GPMA_ECOLI	reviewed	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (BPG-dependent PGAM) (PGAM) (Phosphoglyceromutase) (dPGM) (EC 5.4.2.11)	gpmA gpm pgm pgmA b0755 JW0738	Escherichia coli (strain K12)	250
+1e5d	Q9F0J6	ROO_DESGG	reviewed	Rubredoxin-oxygen oxidoreductase (ROO) (Rubredoxin oxidase) (EC 1.-.-.-)	roo	Desulfovibrio gigas (strain ATCC 19364 / DSM 1382 / NCIMB 9332 / VKM B-1759)	402
+1e6b	Q9ZVQ3	GSTZ1_ARATH	reviewed	Glutathione S-transferase Z1 (AtGSTZ1) (EC 2.5.1.18) (GST class-zeta member 1) (Glutathione S-transferase 18) (Maleylacetone isomerase) (MAI) (EC 5.2.1.-)	GSTZ1 GST18 GSTZ At2g02390 T16F16.18	Arabidopsis thaliana (Mouse-ear cress)	221
+1e86	P00138	CYCP_ALCXX	reviewed	Cytochrome c'		Alcaligenes xylosoxydans xylosoxydans (Achromobacter xylosoxidans)	127
+1e87	Q07108	CD69_HUMAN	reviewed	Early activation antigen CD69 (Activation inducer molecule) (AIM) (BL-AC/P26) (C-type lectin domain family 2 member C) (EA1) (Early T-cell activation antigen p60) (GP32/28) (Leukocyte surface antigen Leu-23) (MLR-3) (CD antigen CD69)	CD69 CLEC2C	Homo sapiens (Human)	199
+1e9g	P00817	IPYR_YEAST	reviewed	Inorganic pyrophosphatase (EC 3.6.1.1) (Pyrophosphate phospho-hydrolase) (PPase)	IPP1 PPA PPA1 YBR011C YBR0202	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	287
+1eej	P0AEG6	DSBC_ECOLI	reviewed	Thiol:disulfide interchange protein DsbC	dsbC xprA b2893 JW2861	Escherichia coli (strain K12)	236
+1eem	P78417	GSTO1_HUMAN	reviewed	Glutathione S-transferase omega-1 (GSTO-1) (EC 2.5.1.18) (Glutathione S-transferase omega 1-1) (GSTO 1-1) (Glutathione-dependent dehydroascorbate reductase) (EC 1.8.5.1) (Monomethylarsonic acid reductase) (MMA(V) reductase) (EC 1.20.4.2) (S-(Phenacyl)glutathione reductase) (SPG-R)	GSTO1 GSTTLP28	Homo sapiens (Human)	241
+1ehi	Q03ZI1	DDL_LEUMM	reviewed	D-alanine--D-alanine ligase (EC 6.3.2.4) (D-Ala-D-Ala ligase) (D-alanylalanine synthetase)	ddl LEUM_0264	Leuconostoc mesenteroides subsp. mesenteroides (strain ATCC 8293 / NCDO 523)	377
+1ei1	P0AES6	GYRB_ECOLI	reviewed	DNA gyrase subunit B (EC 5.6.2.3) (Type IIA topoisomerase subunit GyrB)	gyrB acrB cou himB hisU nalC parA pcbA b3699 JW5625	Escherichia coli (strain K12)	804
+1ekf	O15382	BCAT2_HUMAN	reviewed	Branched-chain-amino-acid aminotransferase, mitochondrial (BCAT(m)) (EC 2.6.1.42) (Placental protein 18) (PP18)	BCAT2 BCATM BCT2 ECA40	Homo sapiens (Human)	392
+1emd	P61889	MDH_ECOLI	reviewed	Malate dehydrogenase (EC 1.1.1.37)	mdh b3236 JW3205	Escherichia coli (strain K12)	312
+1eov	P04802	SYDC_YEAST	reviewed	Aspartate--tRNA ligase, cytoplasmic (EC 6.1.1.12) (Aspartyl-tRNA synthetase) (AspRS)	DPS1 APS APS1 YLL018C L1295	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	557
+1eq9	Q7SIG2	CTR1_SOLIN	reviewed	Chymotrypsin-1 (EC 3.4.21.1) (Chymotrypsin I) (Soli C1)		Solenopsis invicta (Red imported fire ant) (Solenopsis wagneri)	222
+1eqt	P13501	CCL5_HUMAN	reviewed	C-C motif chemokine 5 (EoCP) (Eosinophil chemotactic cytokine) (SIS-delta) (Small-inducible cytokine A5) (T cell-specific protein P228) (TCP228) (T-cell-specific protein RANTES) [Cleaved into: RANTES(3-68); RANTES(4-68)]	CCL5 D17S136E SCYA5	Homo sapiens (Human)	91
+1ert	P10599	THIO_HUMAN	reviewed	Thioredoxin (Trx) (ATL-derived factor) (ADF) (Surface-associated sulphydryl protein) (SASP)	TXN TRDX TRX TRX1	Homo sapiens (Human)	105
+1ew3	Q95182	ALL1_HORSE	reviewed	Major allergen Equ c 1 (allergen Equ c 1)		Equus caballus (Horse)	187
+1eyv	P9WIV1	NUSB_MYCTU	reviewed	Transcription antitermination protein NusB (Antitermination factor NusB)	nusB Rv2533c MTCY159.23	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	156
+1f08	P03116	VE1_BPV1	reviewed	Replication protein E1 (EC 3.6.4.12) (ATP-dependent helicase E1)	E1	Bovine papillomavirus type 1	605
+1f13	P00488	F13A_HUMAN	reviewed	Coagulation factor XIII A chain (Coagulation factor XIIIa) (EC 2.3.2.13) (Protein-glutamine gamma-glutamyltransferase A chain) (Transglutaminase A chain)	F13A1 F13A	Homo sapiens (Human)	732
+1f1c	P82603	CY550_ARTMA	reviewed	Cytochrome c-550 (Cytochrome c-549) (Cytochrome c549) (Cytochrome c550) (Low-potential cytochrome c)	psbV	Arthrospira maxima (Spirulina maxima)	129
+1f36	P0A6R3	FIS_ECOLI	reviewed	DNA-binding protein Fis (Factor-for-inversion stimulation protein) (Hin recombinational enhancer-binding protein)	fis b3261 JW3229	Escherichia coli (strain K12)	98
+1f3b	P13745	GSTA1_MOUSE	reviewed	Glutathione S-transferase A1 (EC 2.5.1.18) (13-hydroperoxyoctadecadienoate peroxidase) (EC 1.11.1.-) (Androst-5-ene-3,17-dione isomerase) (EC 5.3.3.-) (GST class-alpha member 1) (Glutathione S-transferase Ya) (Glutathione S-transferase Ya1) [Cleaved into: Glutathione S-transferase A1, N-terminally processed]	Gsta1 Gsta Gstya	Mus musculus (Mouse)	223
+1f3h	O15392	BIRC5_HUMAN	reviewed	Baculoviral IAP repeat-containing protein 5 (Apoptosis inhibitor 4) (Apoptosis inhibitor survivin)	BIRC5 API4 IAP4	Homo sapiens (Human)	142
+1f5m	P36088	FRMSR_YEAST	reviewed	Free methionine-R-sulfoxide reductase (fRMsr) (EC 1.8.4.14) (GAF domain-containing protein YKL069W)	YKL069W YKL340	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	180
+1f5w	P78310	CXAR_HUMAN	reviewed	Coxsackievirus and adenovirus receptor (CAR) (hCAR) (CVB3-binding protein) (Coxsackievirus B-adenovirus receptor) (HCVADR)	CXADR CAR	Homo sapiens (Human)	365
+1f89	P49954	NIT3_YEAST	reviewed	Omega-amidase NIT3 (EC 3.5.1.3) (Nitrilase homolog 2)	NIT3 YLR351C L9638.5	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	291
+1fa9	P06737	PYGL_HUMAN	reviewed	Glycogen phosphorylase, liver form (EC 2.4.1.1)	PYGL	Homo sapiens (Human)	847
+1fc4	P0AB77	KBL_ECOLI	reviewed	2-amino-3-ketobutyrate coenzyme A ligase (AKB ligase) (EC 2.3.1.29) (Glycine acetyltransferase)	kbl b3617 JW3592	Escherichia coli (strain K12)	398
+1fd9	Q5ZXE0	MIP_LEGPH	reviewed	Outer membrane protein MIP (EC 5.2.1.8) (Macrophage infectivity potentiator) (Peptidyl-prolyl cis-trans isomerase) (PPIase) (Rotamase)	mip lpg0791	Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)	233
+1fe4	O00244	ATOX1_HUMAN	reviewed	Copper transport protein ATOX1 (Metal transport protein ATX1)	ATOX1 HAH1	Homo sapiens (Human)	68
+1ff5	P09803	CADH1_MOUSE	reviewed	Cadherin-1 (ARC-1) (Epithelial cadherin) (E-cadherin) (Uvomorulin) (CD antigen CD324) [Cleaved into: E-Cad/CTF1; E-Cad/CTF2; E-Cad/CTF3]	Cdh1	Mus musculus (Mouse)	884
+1fg3	P06986	HIS8_ECOLI	reviewed	Histidinol-phosphate aminotransferase (EC 2.6.1.9) (Imidazole acetol-phosphate transaminase) (HPAT) (HspAT)	hisC b2021 JW2003	Escherichia coli (strain K12)	356
+1fi4	P32377	MVD1_YEAST	reviewed	Diphosphomevalonate decarboxylase (EC 4.1.1.33) (Ergosterol biosynthesis protein 19) (Mevalonate pyrophosphate decarboxylase) (Mevalonate-5-diphosphate decarboxylase) (MDD) (MDDase)	MVD1 ERG19 MPD YNR043W N3427	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	396
+1fk8	P80702	DIDH_COMTE	reviewed	3-alpha-hydroxysteroid dehydrogenase/carbonyl reductase (3-alpha-HSD) (EC 1.1.1.50) (3-alpha-hydroxysteroid dehydrogenase/3-oxosteroid reductase) (HSD28) (Hydroxyprostaglandin dehydrogenase)	hsdA	Comamonas testosteroni (Pseudomonas testosteroni)	257
+1foc	Q5SME3	CY552_THET8	reviewed	Cytochrome c-552 (Cytochrome c552)	cycA TTHA1423	Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)	148
+1fp1	P93324	CHOMT_MEDSA	reviewed	Isoliquiritigenin 2'-O-methyltransferase (MsCHMT) (EC 2.1.1.154) (Chalcone O-methyltransferase) (ChOMT) (Licodione 2'-O-methyltransferase) (MsLMT) (EC 2.1.1.65)		Medicago sativa (Alfalfa)	372
+1fp2	O24529	7OMT8_MEDSA	reviewed	Isoflavone-7-O-methyltransferase 8 (EC 2.1.1.150) (7-IOMT-8) (Isoflavone-O-methyltransferase 8)		Medicago sativa (Alfalfa)	352
+1fp5	P01854	IGHE_HUMAN	reviewed	Immunoglobulin heavy constant epsilon (Ig epsilon chain C region) (Ig epsilon chain C region ND)	IGHE	Homo sapiens (Human)	428
+1fux	P77368	YBCL_ECOLI	reviewed	UPF0098 protein YbcL	ybcL b0545 JW0533	Escherichia coli (strain K12)	183
+1fw1	O43708	MAAI_HUMAN	reviewed	Maleylacetoacetate isomerase (MAAI) (EC 5.2.1.2) (GSTZ1-1) (Glutathione S-transferase zeta 1) (EC 2.5.1.18)	GSTZ1 MAAI	Homo sapiens (Human)	216
+1fxd	P00209	FER_DESGI	reviewed	Ferredoxin-2 (Ferredoxin II) (FdII)		Desulfovibrio gigas	58
+1fxr	P00210	FER1_DESAF	reviewed	Ferredoxin-1 (Ferredoxin I) (FdI)	fd1	Desulfovibrio africanus	65
+1g3m	P49888	ST1E1_HUMAN	reviewed	Estrogen sulfotransferase (EC 2.8.2.4) (EST-1) (Sulfotransferase 1E1) (ST1E1) (Sulfotransferase, estrogen-preferring)	SULT1E1 STE	Homo sapiens (Human)	294
+1g3s	P0DJL7	DTXR_CORDI	reviewed	Diphtheria toxin repressor (Iron-dependent diphtheria tox regulatory element) (Tox regulatory factor)	dtxR DIP1414	Corynebacterium diphtheriae (strain ATCC 700971 / NCTC 13129 / Biotype gravis)	226
+1g51	P36419	SYD_THETH	reviewed	Aspartate--tRNA(Asp) ligase (EC 6.1.1.12) (Aspartyl-tRNA synthetase) (AspRS) (Discriminating aspartyl-tRNA synthetase) (D-AspRS)	aspS	Thermus thermophilus	580
+1g57	P0A7J0	RIBB_ECOLI	reviewed	3,4-dihydroxy-2-butanone 4-phosphate synthase (DHBP synthase) (EC 4.1.99.12)	ribB htrP b3041 JW3009	Escherichia coli (strain K12)	217
+1g60	P23192	MTM2_MORBO	reviewed	Modification methylase MboII (M.MboII) (EC 2.1.1.72) (Adenine-specific methyltransferase MboII) (DNA MTase MboIIA)	mboIIM	Moraxella bovis	260
+1g6y	P23202	URE2_YEAST	reviewed	Transcriptional regulator URE2 (Disulfide reductase) (EC 1.8.4.-) (Glutathione peroxidase) (EC 1.11.1.9)	URE2 YNL229C N1165	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	354
+1g85	P07435	OBP_BOVIN	reviewed	Odorant-binding protein (OBP) (Olfactory mucosa pyrazine-binding protein)		Bos taurus (Bovine)	159
+1g8s	Q58108	FLPA_METJA	reviewed	Fibrillarin-like rRNA/tRNA 2'-O-methyltransferase (EC 2.1.1.-)	flpA MJ0697	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) (Methanococcus jannaschii)	230
+1gan	P56217	LEG1_RHIAE	reviewed	Galectin-1 (Gal-1)		Rhinella arenarum (Argentine common toad) (Bufo arenarum)	134
+1gd9	O59096	O59096_PYRHO	unreviewed	Aminotransferase (EC 2.6.1.-)	PH1371	Pyrococcus horikoshii (strain ATCC 700860 / DSM 12428 / JCM 9974 / NBRC 100139 / OT-3)	389
+1gdh	P36234	DHGY_HYPME	reviewed	Glycerate dehydrogenase (GDH) (EC 1.1.1.29) (Glyoxylate reductase) (Hydroxypyruvate dehydrogenase) (NADH-dependent hydroxypyruvate reductase) (HPR)		Hyphomicrobium methylovorum	322
+1gfl	P42212	GFP_AEQVI	reviewed	Green fluorescent protein	GFP	Aequorea victoria (Jellyfish)	238
+1gfs	P32055	FCL_ECOLI	reviewed	GDP-L-fucose synthase (EC 1.1.1.271) (GDP-4-keto-6-deoxy-D-mannose-3,5-epimerase-4-reductase)	fcl wcaG yefB b2052 JW2037	Escherichia coli (strain K12)	321
+1gnw	P46422	GSTF2_ARATH	reviewed	Glutathione S-transferase F2 (AtGSTF2) (EC 2.5.1.18) (24 kDa auxin-binding protein) (AtPM24) (GST class-phi member 2)	GSTF2 PM24.1 At4g02520 T10P11.18	Arabidopsis thaliana (Mouse-ear cress)	212
+1gpe	P81156	GOX_PENAG	reviewed	Glucose oxidase (EC 1.1.3.4) (Beta-D-glucose:oxygen 1-oxido-reductase) (Glucose oxyhydrase) (GOD)		Penicillium amagasakiense	587
+1gpr	P20166	PTG3C_BACSU	reviewed	PTS system glucose-specific EIICBA component (EC 2.7.1.199) (EII-Glc/EIII-Glc) (EIICBA-Glc) (EIICBA-Glc 1) [Includes: Glucose permease IIC component (PTS system glucose-specific EIIC component); Glucose-specific phosphotransferase enzyme IIB component (PTS system glucose-specific EIIB component); Glucose-specific phosphotransferase enzyme IIA component (PTS system glucose-specific EIIA component)]	ptsG crr ptsX BSU13890	Bacillus subtilis (strain 168)	699
+1gpr	Q59250	Q59250_BACIU	unreviewed	Protein-N(Pi)-phosphohistidine-sugar phosphotransferase (EC 2.7.1.69)	ptsX	Bacillus subtilis	162
+1gq1	P72181	NIRS_PARPN	reviewed	Nitrite reductase (EC 1.7.2.1) (Cytochrome cd1) (Cytochrome oxidase) (Hydroxylamine reductase) (EC 1.7.99.1)	nirS	Paracoccus pantotrophus (Thiosphaera pantotropha)	596
+1gqa	P00148	CYCP_RHOS4	reviewed	Cytochrome c'	cycP RHOS4_20780 RSP_0474	Rhodobacter sphaeroides (strain ATCC 17023 / 2.4.1 / NCIB 8253 / DSM 158)	149
+1gqk	B3PC73	AGUA_CELJU	reviewed	Extracellular xylan exo-alpha-(1->2)-glucuronosidase (EC 3.2.1.131) (Alpha-glucuronidase)	gla67A glcA67A CJA_2887	Cellvibrio japonicus (strain Ueda107) (Pseudomonas fluorescens subsp. cellulosa)	732
+1grt	P00390	GSHR_HUMAN	reviewed	Glutathione reductase, mitochondrial (GR) (GRase) (EC 1.8.1.7)	GSR GLUR GRD1	Homo sapiens (Human)	522
+1gu7	Q8WZM3	ETR1_CANTR	reviewed	Enoyl-[acyl-carrier-protein] reductase 1, mitochondrial (EC 1.3.1.104) (2-enoyl thioester reductase 1)	ETR1	Candida tropicalis (Yeast)	386
+1gv3	Q8Z0M1	Q8Z0M1_NOSS1	unreviewed	Superoxide dismutase	all0070	Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576)	270
+1gvj	P14921	ETS1_HUMAN	reviewed	Protein C-ets-1 (p54)	ETS1 EWSR2	Homo sapiens (Human)	441
+1gy8	Q8T8E9	Q8T8E9_9TRYP	unreviewed	UDP-galactose 4-epimerase (EC 5.1.3.2)	galE	Trypanosoma brucei	395
+1h0c	P21549	SPYA_HUMAN	reviewed	Serine--pyruvate aminotransferase (SPT) (EC 2.6.1.51) (Alanine--glyoxylate aminotransferase) (AGT) (EC 2.6.1.44)	AGXT AGT1 SPAT	Homo sapiens (Human)	392
+1h0x	P60849	ALBA1_SACS2	reviewed	DNA/RNA-binding protein Alba 1 (Sso10b)	albA1 sso10b SSO0962	Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2) (Sulfolobus solfataricus)	97
+1h1m	Q7SIC2	QDOI_ASPJA	reviewed	Quercetin 2,3-dioxygenase (EC 1.13.11.24) (2,3QD) (Flavonol 2,4-dioxygenase) (Quercetinase)		Aspergillus japonicus	350
+1h1z	Q9SE42	RPE1_ORYSJ	reviewed	Ribulose-phosphate 3-epimerase, cytoplasmic isoform (EC 5.1.3.1) (Cyt-RPEase) (Pentose-5-phosphate 3-epimerase) (PPE) (RPEcyt) (Ribulose-5-phosphate-epimerase)	Os09g0505700 LOC_Os09g32810	Oryza sativa subsp. japonica (Rice)	228
+1h4v	P62374	SYH_THET2	reviewed	Histidine--tRNA ligase (EC 6.1.1.21) (Histidyl-tRNA synthetase) (HisRS)	hisS TT_C0360	Thermus thermophilus (strain HB27 / ATCC BAA-163 / DSM 7039)	421
+1h7g	P42216	KPSU5_ECOLX	reviewed	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38) (CMP-2-keto-3-deoxyoctulosonic acid synthase) (CKS) (CMP-KDO synthase)	kpsU	Escherichia coli	246
+1h8x	P07998	RNAS1_HUMAN	reviewed	Ribonuclease pancreatic (EC 4.6.1.18) (HP-RNase) (RIB-1) (RNase UpI-1) (Ribonuclease 1) (RNase 1) (Ribonuclease A) (RNase A)	RNASE1 RIB1 RNS1	Homo sapiens (Human)	156
+1h8y	Q51400	Q51400_PSEAI	unreviewed	Beta-lactamase (EC 3.5.2.6)	bla oxa-13	Pseudomonas aeruginosa	266
+1h9r	P0A9G8	MODE_ECOLI	reviewed	DNA-binding transcriptional dual regulator ModE	modE modR b0761 JW0744	Escherichia coli (strain K12)	262
+1ha4	P22914	CRYGS_HUMAN	reviewed	Gamma-crystallin S (Beta-crystallin S) (Gamma-S-crystallin)	CRYGS CRYG8	Homo sapiens (Human)	178
+1hei	P27958	POLG_HCVH	reviewed	Genome polyprotein [Cleaved into: Core protein p21 (Capsid protein C) (p21); Core protein p19; Envelope glycoprotein E1 (gp32) (gp35); Envelope glycoprotein E2 (NS1) (gp68) (gp70); Viroporin p7; Protease NS2-3 (p23) (EC 3.4.22.-); Serine protease NS3 (EC 3.4.21.98) (EC 3.6.1.15) (EC 3.6.4.13) (Hepacivirin) (NS3P) (p70); Non-structural protein 4A (NS4A) (p8); Non-structural protein 4B (NS4B) (p27); Non-structural protein 5A (NS5A) (p56); RNA-directed RNA polymerase (EC 2.7.7.48) (NS5B) (p68)]		Hepatitis C virus genotype 1a (isolate H) (HCV)	3011
+1hgx	P51900	HGXR_TRIFO	reviewed	Hypoxanthine-guanine-xanthine phosphoribosyltransferase (HGPRT) (HGXPRT) (HGXPRTase) (EC 2.4.2.22) (EC 2.4.2.8)	HPT	Tritrichomonas foetus (Trichomonas foetus) (Tritrichomonas suis)	183
+1hlc	P05162	LEG2_HUMAN	reviewed	Galectin-2 (Gal-2) (Beta-galactoside-binding lectin L-14-II) (HL14) (Lactose-binding lectin 2) (S-Lac lectin 2)	LGALS2	Homo sapiens (Human)	132
+1hlm	P80017	GLBD_MOLAR	reviewed	Globin D, coelomic		Molpadia arenicola (Sea cucumber) (Caudina arenicola)	159
+1hn4	P00592	PA21B_PIG	reviewed	Phospholipase A2, major isoenzyme (EC 3.1.1.4) (Group IB phospholipase A2) (Phosphatidylcholine 2-acylhydrolase 1B)	PLA2G1B	Sus scrofa (Pig)	146
+1hnd	P0A6R0	FABH_ECOLI	reviewed	3-oxoacyl-[acyl-carrier-protein] synthase 3 (EC 2.3.1.180) (3-oxoacyl-[acyl-carrier-protein] synthase III) (Beta-ketoacyl-ACP synthase III) (KAS III) (EcFabH)	fabH b1091 JW1077	Escherichia coli (strain K12)	317
+1hqv	P12815	PDCD6_MOUSE	reviewed	Programmed cell death protein 6 (ALG-257) (Apoptosis-linked gene 2 protein) (ALG-2) (PMP41)	Pdcd6 Alg2	Mus musculus (Mouse)	191
+1ht9	P02633	S100G_BOVIN	reviewed	Protein S100-G (Calbindin-D9k) (S100 calcium-binding protein G) (Vitamin D-dependent calcium-binding protein, intestinal) (CABP)	S100G CALB3 S100D	Bos taurus (Bovine)	79
+1huw	P01241	SOMA_HUMAN	reviewed	Somatotropin (Growth hormone) (GH) (GH-N) (Growth hormone 1) (Pituitary growth hormone)	GH1	Homo sapiens (Human)	217
+1hw1	P0A8V6	FADR_ECOLI	reviewed	Fatty acid metabolism regulator protein	fadR oleR thdB b1187 JW1176	Escherichia coli (strain K12)	239
+1i0l	Q4DRC4	Q4DRC4_TRYCC	unreviewed	Hypoxanthine phosphoribosyltransferase (EC 2.4.2.8)	Tc00.1047053509693.70	Trypanosoma cruzi (strain CL Brener)	241
+1i1h	P21638	COBH_SINSX	reviewed	Precorrin-8X methylmutase (EC 5.4.99.61) (HBA synthase) (Precorrin isomerase)	cobH	Sinorhizobium sp.	210
+1i2c	O48917	SQD1_ARATH	reviewed	UDP-sulfoquinovose synthase, chloroplastic (EC 3.13.1.1) (Sulfite:UDP-glucose sulfotransferase) (Sulfolipid biosynthesis protein)	SQD1 At4g33030 F26P21.150	Arabidopsis thaliana (Mouse-ear cress)	477
+1i2l	P28305	PABC_ECOLI	reviewed	Aminodeoxychorismate lyase (EC 4.1.3.38) (4-amino-4-deoxychorismate lyase) (ADC lyase) (ADCL)	pabC b1096 JW1082	Escherichia coli (strain K12)	269
+1i3l	Q14376	GALE_HUMAN	reviewed	UDP-glucose 4-epimerase (EC 5.1.3.2) (Galactowaldenase) (UDP-N-acetylgalactosamine 4-epimerase) (UDP-GalNAc 4-epimerase) (UDP-N-acetylglucosamine 4-epimerase) (UDP-GlcNAc 4-epimerase) (EC 5.1.3.7) (UDP-galactose 4-epimerase)	GALE	Homo sapiens (Human)	348
+1i4u	P80029	CRC1_HOMGA	reviewed	Crustacyanin-C1 subunit		Homarus gammarus (European lobster) (Homarus vulgaris)	181
+1i52	Q46893	ISPD_ECOLI	reviewed	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60) (4-diphosphocytidyl-2C-methyl-D-erythritol synthase) (CDP-ME synthase) (MEP cytidylyltransferase) (MCT)	ispD ygbP b2747 JW2717	Escherichia coli (strain K12)	236
+1i58	Q56310	CHEA_THEMA	reviewed	Chemotaxis protein CheA (EC 2.7.13.3)	cheA TM_0702	Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)	671
+1i69	P0ACQ4	OXYR_ECOLI	reviewed	Hydrogen peroxide-inducible genes activator (Morphology and auto-aggregation control protein)	oxyR momR mor b3961 JW3933	Escherichia coli (strain K12)	305
+1iam	P05362	ICAM1_HUMAN	reviewed	Intercellular adhesion molecule 1 (ICAM-1) (Major group rhinovirus receptor) (CD antigen CD54)	ICAM1	Homo sapiens (Human)	532
+1icw	P10145	IL8_HUMAN	reviewed	Interleukin-8 (IL-8) (C-X-C motif chemokine 8) (Chemokine (C-X-C motif) ligand 8) (Emoctakin) (Granulocyte chemotactic protein 1) (GCP-1) (Monocyte-derived neutrophil chemotactic factor) (MDNCF) (Monocyte-derived neutrophil-activating peptide) (MONAP) (Neutrophil-activating protein 1) (NAP-1) (Protein 3-10C) (T-cell chemotactic factor) [Cleaved into: MDNCF-a (GCP/IL-8 protein IV) (IL8/NAP1 form I); Interleukin-8 ((Ala-IL-8)77) (GCP/IL-8 protein II) (IL-8(1-77)) (IL8/NAP1 form II) (MDNCF-b); IL-8(5-77); IL-8(6-77) ((Ser-IL-8)72) (GCP/IL-8 protein I) (IL8/NAP1 form III) (Lymphocyte-derived neutrophil-activating factor) (LYNAP) (MDNCF-c) (Neutrophil-activating factor) (NAF); IL-8(7-77) (GCP/IL-8 protein V) (IL8/NAP1 form IV); IL-8(8-77) (GCP/IL-8 protein VI) (IL8/NAP1 form V); IL-8(9-77) (GCP/IL-8 protein III) (IL8/NAP1 form VI)]	CXCL8 IL8	Homo sapiens (Human)	99
+1ie0	O34667	LUXS_BACSU	reviewed	S-ribosylhomocysteine lyase (EC 4.4.1.21) (AI-2 synthesis protein) (Autoinducer-2 production protein LuxS)	luxS ytjB BSU30670	Bacillus subtilis (strain 168)	157
+1ig0	P35202	THI80_YEAST	reviewed	Thiamine pyrophosphokinase (TPK) (Thiamine kinase) (EC 2.7.6.2)	THI80 YOR143C YOR3373C	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	319
+1ihk	P31371	FGF9_HUMAN	reviewed	Fibroblast growth factor 9 (FGF-9) (Glia-activating factor) (GAF) (Heparin-binding growth factor 9) (HBGF-9)	FGF9	Homo sapiens (Human)	208
+1ii2	P51058	PCKA_TRYCR	reviewed	Phosphoenolpyruvate carboxykinase (ATP), glycosomal (EC 4.1.1.49)	PEPCK	Trypanosoma cruzi	472
+1ii5	P73797	P73797_SYNY3	unreviewed	Slr1257 protein	slr1257	Synechocystis sp. (strain PCC 6803 / Kazusa)	397
+1ima	P29218	IMPA1_HUMAN	reviewed	Inositol monophosphatase 1 (IMP 1) (IMPase 1) (EC 3.1.3.25) (D-galactose 1-phosphate phosphatase) (EC 3.1.3.94) (Inositol-1(or 4)-monophosphatase 1) (Lithium-sensitive myo-inositol monophosphatase A1)	IMPA1 IMPA	Homo sapiens (Human)	277
+1iom	Q5SIM6	Q5SIM6_THET8	unreviewed	Citrate synthase	TTHA1343	Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)	377
+1ipe	P50163	TRN2_DATST	reviewed	Tropinone reductase 2 (EC 1.1.1.236) (Tropinone reductase II) (TR-II)	TR2	Datura stramonium (Jimsonweed) (Common thornapple)	260
+1is3	Q9YIC2	LEG2_CONMY	reviewed	Congerin-2 (Beta-galactoside-binding lectin 2) (Congerin II)		Conger myriaster (Conger eel)	136
+1iug	P83786	P83786_THETH	unreviewed	Aspartate aminotransferase (EC 2.6.1.1)		Thermus thermophilus	352
+1iuj	P83693	P83693_THETH	unreviewed	TT1380 protein		Thermus thermophilus	106
+1iuo	P96965	P96965_PSEFL	unreviewed	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase	cumD	Pseudomonas fluorescens	282
+1ivy	P10619	PPGB_HUMAN	reviewed	Lysosomal protective protein (EC 3.4.16.5) (Carboxypeptidase C) (Carboxypeptidase L) (Cathepsin A) (Protective protein cathepsin A) (PPCA) (Protective protein for beta-galactosidase) [Cleaved into: Lysosomal protective protein 32 kDa chain; Lysosomal protective protein 20 kDa chain]	CTSA PPGB	Homo sapiens (Human)	480
+1iyz	Q8L3C8	Q8L3C8_THETH	unreviewed	Probable quinone oxidoreductase (EC 1.6.5.5)		Thermus thermophilus	302
+1iz3	Q9NWT6	HIF1N_HUMAN	reviewed	Hypoxia-inducible factor 1-alpha inhibitor (EC 1.14.11.30) (EC 1.14.11.n4) (Factor inhibiting HIF-1) (FIH-1) (Hypoxia-inducible factor asparagine hydroxylase)	HIF1AN FIH1	Homo sapiens (Human)	349
+1j1b	P49841	GSK3B_HUMAN	reviewed	Glycogen synthase kinase-3 beta (GSK-3 beta) (EC 2.7.11.26) (Serine/threonine-protein kinase GSK3B) (EC 2.7.11.1)	GSK3B	Homo sapiens (Human)	420
+1j1i	Q84II3	Q84II3_JANS3	unreviewed	Meta cleavage compound hydrolase	carC	Janthinobacterium sp. (strain J3)	290
+1j32	Q8RR70	Q8RR70_PHOLP	unreviewed	Aminotransferase (EC 2.6.1.-)	aspC	Phormidium lapideum	388
+1j55	P25815	S100P_HUMAN	reviewed	Protein S100-P (Migration-inducing gene 9 protein) (MIG9) (Protein S100-E) (S100 calcium-binding protein P)	S100P S100E	Homo sapiens (Human)	95
+1j5p	Q9X1X6	ASPD_THEMA	reviewed	L-aspartate dehydrogenase (EC 1.4.1.21)	nadX TM_1643	Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)	241
+1j6w	P44007	LUXS_HAEIN	reviewed	S-ribosylhomocysteine lyase (EC 4.4.1.21) (AI-2 synthesis protein) (Autoinducer-2 production protein LuxS)	luxS HI_0491	Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)	167
+1j6x	Q9ZMW8	LUXS_HELPJ	reviewed	S-ribosylhomocysteine lyase (EC 4.4.1.21) (AI-2 synthesis protein) (Autoinducer-2 production protein LuxS)	luxS jhp_0097	Helicobacter pylori (strain J99 / ATCC 700824) (Campylobacter pylori J99)	152
+1j93	Q42967	DCUP_TOBAC	reviewed	Uroporphyrinogen decarboxylase, chloroplastic (UPD) (URO-D) (EC 4.1.1.37)	DCUP	Nicotiana tabacum (Common tobacco)	391
+1ja3	Q9JHN9	Q9JHN9_MOUSE	unreviewed	MHC class I recognition receptor Ly49I (Natural killer cell receptor Ly49C)		Mus musculus (Mouse)	266
+1jd0	O43570	CAH12_HUMAN	reviewed	Carbonic anhydrase 12 (EC 4.2.1.1) (Carbonate dehydratase XII) (Carbonic anhydrase XII) (CA-XII) (Tumor antigen HOM-RCC-3.1.3)	CA12	Homo sapiens (Human)	354
+1jez	O74237	XYL1_CANTE	reviewed	NAD(P)H-dependent D-xylose reductase (XR) (EC 1.1.1.307)	XYL1 XYLR	Candida tenuis (Yeast) (Yamadazyma tenuis)	322
+1jf9	P77444	SUFS_ECOLI	reviewed	Cysteine desulfurase (EC 2.8.1.7) (Selenocysteine beta-lyase) (SCL) (Selenocysteine lyase) (EC 4.4.1.16) (Selenocysteine reductase)	sufS csdB ynhB b1680 JW1670	Escherichia coli (strain K12)	406
+1jhd	Q54506	SAT_RIFPS	reviewed	Sulfate adenylyltransferase (EC 2.7.7.4) (ATP-sulfurylase) (Sulfate adenylate transferase) (SAT)	sat sopT	Riftia pachyptila sulfur-oxidizing endosymbiont	437
+1jhz	P0ACP7	PURR_ECOLI	reviewed	HTH-type transcriptional repressor PurR (Pur regulon repressor) (Purine nucleotide synthesis repressor)	purR b1658 JW1650	Escherichia coli (strain K12)	341
+1jl9	P01133	EGF_HUMAN	reviewed	Pro-epidermal growth factor (EGF) [Cleaved into: Epidermal growth factor (Urogastrone)]	EGF	Homo sapiens (Human)	1207
+1jld	P04584	POL_HV2RO	reviewed	Gag-Pol polyprotein (Pr160Gag-Pol) [Cleaved into: Matrix protein p17 (MA); Capsid protein p24 (CA); Spacer peptide 1 (SP1) (p2); Nucleocapsid protein p7 (NC); Transframe peptide (TF); p6-pol (p6*); Protease (EC 3.4.23.47) (PR) (Retropepsin); Reverse transcriptase/ribonuclease H (EC 2.7.7.49) (EC 2.7.7.7) (EC 3.1.26.13) (Exoribonuclease H) (EC 3.1.13.2) (p66 RT); p51 RT; p15; Integrase (IN) (EC 2.7.7.-) (EC 3.1.-.-)]	gag-pol	Human immunodeficiency virus type 2 subtype A (isolate ROD) (HIV-2)	1464
+1jlw	Q7KIF1	Q7KIF1_9DIPT	unreviewed	Glutathione transferase (EC 2.5.1.18)	GST1	Anopheles cracens	219
+1jm6	Q64536	PDK2_RAT	reviewed	[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial (EC 2.7.11.2) (PDK P45) (Pyruvate dehydrogenase kinase isoform 2) (PDH kinase 2)	Pdk2	Rattus norvegicus (Rat)	407
+1jpk	P06132	DCUP_HUMAN	reviewed	Uroporphyrinogen decarboxylase (UPD) (URO-D) (EC 4.1.1.37)	UROD	Homo sapiens (Human)	367
+1jqx	A2RJT9	PYRDA_LACLM	reviewed	Dihydroorotate dehydrogenase A (fumarate) (DHOD A) (DHODase A) (DHOdehase A) (EC 1.3.98.1)	pyrDA llmg_0952	Lactococcus lactis subsp. cremoris (strain MG1363)	311
+1jsg	P56279	TCL1A_HUMAN	reviewed	T-cell leukemia/lymphoma protein 1A (Oncogene TCL-1) (Oncogene TCL1) (Protein p14 TCL1)	TCL1A TCL1	Homo sapiens (Human)	114
+1juo	P30626	SORCN_HUMAN	reviewed	Sorcin (22 kDa protein) (CP-22) (CP22) (V19)	SRI	Homo sapiens (Human)	198
+1jxi	P55882	THID_SALTY	reviewed	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase (EC 2.7.1.49) (EC 2.7.4.7) (Hydroxymethylpyrimidine kinase) (HMP kinase) (Hydroxymethylpyrimidine phosphate kinase) (HMP-P kinase) (HMP-phosphate kinase) (HMPP kinase)	thiD STM2146	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	266
+1jyq	P62993	GRB2_HUMAN	reviewed	Growth factor receptor-bound protein 2 (Adapter protein GRB2) (Protein Ash) (SH2/SH3 adapter GRB2)	GRB2 ASH	Homo sapiens (Human)	217
+1k04	Q05397	FAK1_HUMAN	reviewed	Focal adhesion kinase 1 (FADK 1) (EC 2.7.10.2) (Focal adhesion kinase-related nonkinase) (FRNK) (Protein phosphatase 1 regulatory subunit 71) (PPP1R71) (Protein-tyrosine kinase 2) (p125FAK) (pp125FAK)	PTK2 FAK FAK1	Homo sapiens (Human)	1052
+1k2e	Q8ZTD8	Q8ZTD8_PYRAE	unreviewed	MutT/nudix family protein	PAE3301	Pyrobaculum aerophilum (strain ATCC 51768 / IM2 / DSM 7523 / JCM 9630 / NBRC 100827)	146
+1k38	P0A1V8	BLO2_SALTM	reviewed	Beta-lactamase OXA-2 (EC 3.5.2.6) (Penicillinase)	bla oxa2	Salmonella typhimurium	275
+1k51	Q51912	Q51912_FINMA	unreviewed	Uncharacterized protein		Finegoldia magna (Peptostreptococcus magnus)	719
+1k66	Q8RTM8	Q8RTM8_9CYAN	unreviewed	Response regulator	rcpB FDUTEX481_00770	Tolypothrix sp. PCC 7601	149
+1k96	P06703	S10A6_HUMAN	reviewed	Protein S100-A6 (Calcyclin) (Growth factor-inducible protein 2A9) (MLN 4) (Prolactin receptor-associated protein) (PRA) (S100 calcium-binding protein A6)	S100A6 CACY	Homo sapiens (Human)	90
+1k9u	O82040	POLC7_PHLPR	reviewed	Polcalcin Phl p 7 (Calcium-binding pollen allergen Phl p 7) (Protein P7) (allergen Phl p 7)	P7	Phleum pratense (Common timothy)	78
+1kc3	P26392	RMLD_SALTY	reviewed	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133) (dTDP-4-keto-L-rhamnose reductase) (dTDP-6-deoxy-L-lyxo-4-hexulose reductase) (dTDP-6-deoxy-L-mannose dehydrogenase) (dTDP-L-rhamnose synthase)	rfbD rmlD STM2096	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	299
+1kc7	P22983	PPDK_CLOSY	reviewed	Pyruvate, phosphate dikinase (EC 2.7.9.1) (Pyruvate, orthophosphate dikinase)	ppdK	Clostridium symbiosum (Bacteroides symbiosus)	874
+1kcm	P53810	PIPNA_MOUSE	reviewed	Phosphatidylinositol transfer protein alpha isoform (PI-TP-alpha) (PtdIns transfer protein alpha) (PtdInsTP alpha)	Pitpna Pitpn	Mus musculus (Mouse)	271
+1kep	P95780	RMLB_STRMU	reviewed	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)	rmlB SMU_1457	Streptococcus mutans serotype c (strain ATCC 700610 / UA159)	348
+1kep	Q8GIP9	Q8GIP9_STRSU	unreviewed	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)	rmlB rfbB A6M16_03315 APQ97_03200 CWI26_07360 CWM22_07885 EI219_02305 ELX55_09515 ERS132370_01395 ERS132374_01253 ERS132410_01682 ERS132414_00580 ERS132421_00412 ERS132431_00441 ERS132440_01438 ERS132444_01827 ERS132457_01850 ERS132458_00971 ERS132461_00211 ERS132462_01604 ERS132502_01610 ERS132531_00495 ERS132536_02274 LI88_04195	Streptococcus suis	348
+1keu	P26391	RMLB_SALTY	reviewed	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)	rfbB STM2097	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	361
+1kji	P33221	PURT_ECOLI	reviewed	Formate-dependent phosphoribosylglycinamide formyltransferase (5'-phosphoribosylglycinamide transformylase 2) (Formate-dependent GAR transformylase) (EC 2.1.2.-) (GAR transformylase 2) (GART 2) (Non-folate glycinamide ribonucleotide transformylase) (Phosphoribosylglycinamide formyltransferase 2)	purT b1849 JW1838	Escherichia coli (strain K12)	392
+1ko5	P46859	GNTK_ECOLI	reviewed	Thermoresistant gluconokinase (EC 2.7.1.12) (Gluconate kinase 2)	gntK b3437 JW3400	Escherichia coli (strain K12)	175
+1kp0	Q7SIB5	Q7SIB5_9PAST	unreviewed	Hydrolase		Actinobacillus	402
+1ksi	Q43077	AMO_PEA	reviewed	Primary amine oxidase (EC 1.4.3.21) (Amine oxidase [copper-containing])		Pisum sativum (Garden pea)	674
+1kso	P33764	S10A3_HUMAN	reviewed	Protein S100-A3 (Protein S-100E) (S100 calcium-binding protein A3)	S100A3 S100E	Homo sapiens (Human)	101
+1ktn	P0A6L0	DEOC_ECOLI	reviewed	Deoxyribose-phosphate aldolase (DERA) (EC 4.1.2.4) (2-deoxy-D-ribose 5-phosphate aldolase) (Phosphodeoxyriboaldolase) (Deoxyriboaldolase)	deoC dra thyR b4381 JW4344	Escherichia coli (strain K12)	259
+1l1q	Q967M2	Q967M2_GIAIN	unreviewed	Adenine phosphoribosyltransferase	DHA2_112885	Giardia intestinalis (Giardia lamblia)	180
+1l2t	Q58206	Y796_METJA	reviewed	Uncharacterized ABC transporter ATP-binding protein MJ0796	MJ0796	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) (Methanococcus jannaschii)	235
+1l2u	P08244	PYRF_ECOLI	reviewed	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23) (OMP decarboxylase) (OMPDCase) (OMPdecase)	pyrF b1281 JW1273	Escherichia coli (strain K12)	245
+1l5b	P81180	CVN_NOSEL	reviewed	Cyanovirin-N (CV-N)		Nostoc ellipsosporum	101
+1l5z	P13632	DCTD_RHIME	reviewed	C4-dicarboxylate transport transcriptional regulatory protein DctD	dctD RB1525 SMb20613	Rhizobium meliloti (strain 1021) (Ensifer meliloti) (Sinorhizobium meliloti)	460
+1lby	O30298	BSUHB_ARCFU	reviewed	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase (FBPase/IMPase) (EC 3.1.3.11) (EC 3.1.3.25) (Inositol-1-phosphatase) (I-1-Pase)	suhB AF_2372	Archaeoglobus fulgidus (strain ATCC 49558 / VC-16 / DSM 4304 / JCM 9628 / NBRC 100126)	252
+1lc7	P97084	COBD_SALTY	reviewed	Threonine-phosphate decarboxylase (EC 4.1.1.81) (L-threonine-O-3-phosphate decarboxylase)	cobD STM0644	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	364
+1lca	P00469	TYSY_LACCA	reviewed	Thymidylate synthase (TS) (TSase) (EC 2.1.1.45)	thyA	Lactobacillus casei	316
+1lcl	Q05315	LEG10_HUMAN	reviewed	Galectin-10 (Gal-10) (Charcot-Leyden crystal protein) (CLC) (Eosinophil lysophospholipase) (Lysolecithin acylhydrolase)	CLC LGALS10 LGALS10A	Homo sapiens (Human)	142
+1led	P24146	LEC4_GRISI	reviewed	Lectin-4 (GS4) (Lectin IV)		Griffonia simplicifolia (Bandeiraea simplicifolia)	243
+1lkz	P0A7Z0	RPIA_ECOLI	reviewed	Ribose-5-phosphate isomerase A (EC 5.3.1.6) (Phosphoriboisomerase A) (PRI)	rpiA ygfC b2914 JW5475	Escherichia coli (strain K12)	219
+1llf	P32947	LIP3_DIURU	reviewed	Lipase 3 (EC 3.1.1.3) (Cholesterol esterase)	LIP3	Diutina rugosa (Yeast) (Candida rugosa)	549
+1llf	Q6S5M9	Q6S5M9_9ASCO	unreviewed	Lipase (EC 3.1.1.3) (Fragment)		[Candida] cylindracea	549
+1lnc	P00800	THER_BACTH	reviewed	Thermolysin (EC 3.4.24.27) (Thermostable neutral proteinase)	npr	Bacillus thermoproteolyticus	548
+1lpf	P14218	DLDH_PSEFL	reviewed	Dihydrolipoyl dehydrogenase (EC 1.8.1.4) (Dihydrolipoamide dehydrogenase) (E3 component of 2-oxoglutarate dehydrogenase complex)	lpd	Pseudomonas fluorescens	478
+1lvl	P09063	DLDH1_PSEPU	reviewed	Dihydrolipoyl dehydrogenase (EC 1.8.1.4) (Dihydrolipoamide dehydrogenase) (E3 component of branched-chain alpha-keto acid dehydrogenase complex) (LPD-Val)	lpdV	Pseudomonas putida (Arthrobacter siderocapsulatus)	459
+1lwh	P80099	MGTA_THEMA	reviewed	4-alpha-glucanotransferase (EC 2.4.1.25) (Amylomaltase) (Disproportionating enzyme) (D-enzyme)	mgtA TM_0364	Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)	441
+1lxe	P32196	PG3_PIG	reviewed	Protegrin-3 (PG-3)	NPG3	Sus scrofa (Pig)	149
+1lyn	P04552	ELYS_HALRU	reviewed	Egg-lysin (Sperm-lysin)		Haliotis rufescens (California red abalone)	154
+1m0u	P41043	GSTS1_DROME	reviewed	Glutathione S-transferase S1 (EC 2.5.1.18) (GST class-sigma 1) (Glutathione S-transferase 2)	GstS1 GST2 GSTS1-1 CG8938	Drosophila melanogaster (Fruit fly)	249
+1m0w	Q08220	GSHB_YEAST	reviewed	Glutathione synthetase (GSH synthetase) (GSH-S) (EC 6.3.2.3) (Glutathione synthase)	GSH2 YOL049W	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	491
+1m2z	P04150	GCR_HUMAN	reviewed	Glucocorticoid receptor (GR) (Nuclear receptor subfamily 3 group C member 1)	NR3C1 GRL	Homo sapiens (Human)	777
+1m2z	Q15596	NCOA2_HUMAN	reviewed	Nuclear receptor coactivator 2 (NCoA-2) (Class E basic helix-loop-helix protein 75) (bHLHe75) (Transcriptional intermediary factor 2) (hTIF2)	NCOA2 BHLHE75 SRC2 TIF2	Homo sapiens (Human)	1464
+1m6j	O02611	TPIS_ENTHI	reviewed	Triosephosphate isomerase (TIM) (EC 5.3.1.1) (Triose-phosphate isomerase)	TPI	Entamoeba histolytica	261
+1m7y	P37821	1A1C_MALDO	reviewed	1-aminocyclopropane-1-carboxylate synthase (ACC synthase) (EC 1.4.-.-) (EC 4.4.1.14) (S-adenosyl-L-methionine methylthioadenosine-lyase)	ACS-1	Malus domestica (Apple) (Pyrus malus)	473
+1map	P00508	AATM_CHICK	reviewed	Aspartate aminotransferase, mitochondrial (mAspAT) (EC 2.6.1.1) (EC 2.6.1.7) (Glutamate oxaloacetate transaminase 2) (Kynurenine aminotransferase 4) (Kynurenine aminotransferase IV) (Kynurenine--oxoglutarate transaminase 4) (Kynurenine--oxoglutarate transaminase IV) (Transaminase A)	GOT2	Gallus gallus (Chicken)	423
+1mb4	Q9KQG2	DHAS1_VIBCH	reviewed	Aspartate-semialdehyde dehydrogenase 1 (ASA dehydrogenase 1) (ASADH 1) (EC 1.2.1.11) (Aspartate-beta-semialdehyde dehydrogenase 1)	asd1 VC_2036	Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961)	370
+1mer	P03366	POL_HV1B1	reviewed	Gag-Pol polyprotein (Pr160Gag-Pol) [Cleaved into: Matrix protein p17 (MA); Capsid protein p24 (CA); Spacer peptide 1 (SP1) (p2); Nucleocapsid protein p7 (NC); Transframe peptide (TF); p6-pol (p6*); Protease (EC 3.4.23.16) (PR) (Retropepsin); Reverse transcriptase/ribonuclease H (EC 2.7.7.49) (EC 2.7.7.7) (EC 3.1.26.13) (Exoribonuclease H) (EC 3.1.13.2) (p66 RT); p51 RT; p15; Integrase (IN) (EC 2.7.7.-) (EC 3.1.-.-)]	gag-pol	Human immunodeficiency virus type 1 group M subtype B (isolate BH10) (HIV-1)	1447
+1mg5	P00334	ADH_DROME	reviewed	Alcohol dehydrogenase (EC 1.1.1.1)	Adh CG3481	Drosophila melanogaster (Fruit fly)	256
+1mh9	Q9NPB1	NT5M_HUMAN	reviewed	5'(3')-deoxyribonucleotidase, mitochondrial (5',3'-nucleotidase, mitochondrial) (EC 3.1.3.-) (Deoxy-5'-nucleotidase 2) (dNT-2)	NT5M DNT2	Homo sapiens (Human)	228
+1mjf	Q8U4G1	SPEE_PYRFU	reviewed	Polyamine aminopropyltransferase (1,3-diaminopropane aminopropyltransferase) (EC 2.5.1.23) (Agmatine aminopropyltransferase) (Agmatine/cadaverine aminopropyltransferase) (Cadaverine aminopropyltransferase) (EC 2.5.1.-) (N(1)-aminopropylagmatine synthase) (EC 2.5.1.104) (Putrescine aminopropyltransferase) (PAPT) (EC 2.5.1.16) (Spermidine synthase) (SPDS) (SPDSY) (Sym-norspermidine synthase)	speE PF0127	Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1)	281
+1mk4	P54562	YQJY_BACSU	reviewed	Uncharacterized protein YqjY	yqjY BSU23690	Bacillus subtilis (strain 168)	156
+1mka	P0A6Q3	FABA_ECOLI	reviewed	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase (EC 4.2.1.59) (3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabA) (Beta-hydroxydecanoyl thioester dehydrase) (Trans-2-decenoyl-[acyl-carrier-protein] isomerase) (EC 5.3.3.14)	fabA b0954 JW0937	Escherichia coli (strain K12)	172
+1mo9	Q56839	XECC_XANP2	reviewed	2-oxopropyl-CoM reductase, carboxylating (EC 1.8.1.5) (Aliphatic epoxide carboxylation component II) (NADPH:2-ketopropyl-CoM carboxylase/oxidoreductase) (2-KPCC)	xecC Xaut_4867	Xanthobacter autotrophicus (strain ATCC BAA-1158 / Py2)	523
+1moe	P01660	KV3A8_MOUSE	reviewed	Ig kappa chain V-III region PC 3741/TEPC 111		Mus musculus (Mouse)	111
+1moe	Q5R3X1	Q5R3X1_MOUSE	unreviewed	V(H) region of G5 Bb 2.2 (Fragment)		Mus musculus (Mouse)	114
+1mp9	Q9UWN7	TBP_SULAC	reviewed	TATA-box-binding protein (Box A-binding protein) (BAP) (TATA sequence-binding protein) (TBP) (TATA-box factor)	tbp Saci_1336	Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770)	197
+1mpu	P26718	NKG2D_HUMAN	reviewed	NKG2-D type II integral membrane protein (Killer cell lectin-like receptor subfamily K member 1) (NK cell receptor D) (NKG2-D-activating NK receptor) (CD antigen CD314)	KLRK1 D12S2489E NKG2D	Homo sapiens (Human)	216
+1mqq	Q8VVD2	Q8VVD2_GEOSE	unreviewed	Xylan alpha-1,2-glucuronidase (EC 3.2.1.131)	aguA	Geobacillus stearothermophilus (Bacillus stearothermophilus)	679
+1mqw	O33199	O33199_MYCTO	unreviewed	MutT/nudix family protein	MT1739	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	207
+1mr8	P05109	S10A8_HUMAN	reviewed	Protein S100-A8 (Calgranulin-A) (Calprotectin L1L subunit) (Cystic fibrosis antigen) (CFAG) (Leukocyte L1 complex light chain) (Migration inhibitory factor-related protein 8) (MRP-8) (p8) (S100 calcium-binding protein A8) (Urinary stone protein band A)	S100A8 CAGA CFAG MRP8	Homo sapiens (Human)	93
+1msc	P03612	CAPSD_BPMS2	reviewed	Capsid protein (CP) (Coat protein)		Escherichia phage MS2 (Bacteriophage MS2)	130
+1my6	Q8DIR2	Q8DIR2_THEEB	unreviewed	Superoxide dismutase (EC 1.15.1.1)	sodB	Thermosynechococcus elongatus (strain BP-1)	200
+1myr	P29736	MYRA_SINAL	reviewed	Myrosinase MA1 (EC 3.2.1.147) (Sinigrinase) (Thioglucosidase)		Sinapis alba (White mustard) (Brassica hirta)	501
+1mzh	O66540	DEOC_AQUAE	reviewed	Deoxyribose-phosphate aldolase (DERA) (EC 4.1.2.4) (2-deoxy-D-ribose 5-phosphate aldolase) (Phosphodeoxyriboaldolase) (Deoxyriboaldolase)	deoC aq_148	Aquifex aeolicus (strain VF5)	219
+1mzj	Q9F6D4	FABH_STRLI	reviewed	3-oxoacyl-[acyl-carrier-protein] synthase 3 (EC 2.3.1.180) (3-oxoacyl-[acyl-carrier-protein] synthase III) (Beta-ketoacyl-ACP synthase III) (KAS III)	fabH zhuH	Streptomyces lividans	339
+1mzv	O77103	O77103_LEITA	unreviewed	Adenine phosphoribosyltransferase (EC 2.4.2.7)	aprt	Leishmania tarentolae (Sauroleishmania tarentolae)	235
+1n0h	P07342	ILVB_YEAST	reviewed	Acetolactate synthase catalytic subunit, mitochondrial (EC 2.2.1.6) (Acetohydroxy-acid synthase catalytic subunit) (AHAS) (ALS)	ILV2 SMR1 YMR108W YM9718.07	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	687
+1n1a	Q02790	FKBP4_HUMAN	reviewed	Peptidyl-prolyl cis-trans isomerase FKBP4 (PPIase FKBP4) (EC 5.2.1.8) (51 kDa FK506-binding protein) (FKBP51) (52 kDa FK506-binding protein) (52 kDa FKBP) (FKBP-52) (59 kDa immunophilin) (p59) (FK506-binding protein 4) (FKBP-4) (FKBP59) (HSP-binding immunophilin) (HBI) (Immunophilin FKBP52) (Rotamase) [Cleaved into: Peptidyl-prolyl cis-trans isomerase FKBP4, N-terminally processed]	FKBP4 FKBP52	Homo sapiens (Human)	459
+1n1z	O81192	BPPS_SALOF	reviewed	(+)-bornyl diphosphate synthase, chloroplastic (BPPS) (EC 5.5.1.8) ((+)-alpha-pinene synthase) (EC 4.2.3.121) ((+)-camphene synthase) (EC 4.2.3.116) (SBS)		Salvia officinalis (Sage)	598
+1n2l	P15289	ARSA_HUMAN	reviewed	Arylsulfatase A (ASA) (EC 3.1.6.8) (Cerebroside-sulfatase) [Cleaved into: Arylsulfatase A component B; Arylsulfatase A component C]	ARSA	Homo sapiens (Human)	507
+1n31	Q9ZHG9	Q9ZHG9_SYNY4	unreviewed	L-cysteine/cystine lyase C-DES	c-des	Synechocystis sp. (strain PCC 6714) (Aphanocapsa sp. (strain PCC 6714))	393
+1n57	P31658	HCHA_ECOLI	reviewed	Protein/nucleic acid deglycase 1 (EC 3.1.2.-) (EC 3.5.1.-) (EC 3.5.1.124) (Glyoxalase III) (EC 4.2.1.130) (Holding molecular chaperone) (Hsp31) (Maillard deglycase)	hchA yedU yzzC b1967 JW1950	Escherichia coli (strain K12)	283
+1n5i	P9WKE1	KTHY_MYCTU	reviewed	Thymidylate kinase (EC 2.7.4.9) (Thymidine monophosphate kinase) (dTMP kinase) (TMPK)	tmk Rv3247c	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	214
+1n5s	Q53908	Q53908_STRCH	unreviewed	ActVA 6 protein	actVA 6	Streptomyces coelicolor	113
+1n6m	P20480	NCD_DROME	reviewed	Protein claret segregational	ncd CA(ND) CG7831	Drosophila melanogaster (Fruit fly)	700
+1nbq	Q9Y624	JAM1_HUMAN	reviewed	Junctional adhesion molecule A (JAM-A) (Junctional adhesion molecule 1) (JAM-1) (Platelet F11 receptor) (Platelet adhesion molecule 1) (PAM-1) (CD antigen CD321)	F11R JAM1 JCAM UNQ264/PRO301	Homo sapiens (Human)	299
+1nc3	P0AF12	MTNN_ECOLI	reviewed	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase (MTA/SAH nucleosidase) (MTAN) (EC 3.2.2.9) (5'-methylthioadenosine nucleosidase) (MTA nucleosidase) (P46) (S-adenosylhomocysteine nucleosidase) (AdoHcy nucleosidase) (SAH nucleosidase) (SRH nucleosidase)	mtnN mtn pfs yadA b0159 JW0155	Escherichia coli (strain K12)	232
+1nf8	P0DPC1	PHZD2_PSEAE	reviewed	Phenazine biosynthesis protein PhzD2 (2-amino-4-deoxychorismate hydrolase) (EC 3.3.2.15) (Isochorismatase) (Trans-2,3-dihydro-3-hydroxyanthranilic acid synthase)	phzD2 phzD PA1902	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	207
+1nhj	P23367	MUTL_ECOLI	reviewed	DNA mismatch repair protein MutL	mutL b4170 JW4128	Escherichia coli (strain K12)	615
+1nl3	P9WGP5	SECA1_MYCTU	reviewed	Protein translocase subunit SecA 1 (tbSecA)	secA1 Rv3240c MTCY20B11.15c	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	949
+1nmx	P23919	KTHY_HUMAN	reviewed	Thymidylate kinase (EC 2.7.4.9) (dTMP kinase)	DTYMK CDC8 TMPK TYMK	Homo sapiens (Human)	212
+1nni	O07529	AZR_BACSU	reviewed	FMN-dependent NADPH-azoreductase (EC 1.7.-.-) (Azobenzene reductase)	azr yhdA BSU09340	Bacillus subtilis (strain 168)	174
+1npd	P0A6D5	YDIB_ECOLI	reviewed	Quinate/shikimate dehydrogenase (EC 1.1.1.282) (NAD-dependent shikimate 5-dehydrogenase)	ydiB	Escherichia coli (strain K12)	288
+1nri	P44862	MURQ_HAEIN	reviewed	N-acetylmuramic acid 6-phosphate etherase (MurNAc-6-P etherase) (EC 4.2.1.126) (N-acetylmuramic acid 6-phosphate hydrolase) (N-acetylmuramic acid 6-phosphate lyase)	murQ HI_0754	Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)	303
+1nrv	Q13322	GRB10_HUMAN	reviewed	Growth factor receptor-bound protein 10 (GRB10 adapter protein) (Insulin receptor-binding protein Grb-IR)	GRB10 GRBIR KIAA0207	Homo sapiens (Human)	594
+1ns5	P0A8I8	RLMH_ECOLI	reviewed	Ribosomal RNA large subunit methyltransferase H (EC 2.1.1.177) (23S rRNA (pseudouridine1915-N3)-methyltransferase) (23S rRNA m3Psi1915 methyltransferase) (rRNA (pseudouridine-N3-)-methyltransferase RlmH)	rlmH ybeA b0636 JW0631	Escherichia coli (strain K12)	155
+1nsj	Q56320	TRPF_THEMA	reviewed	N-(5'-phosphoribosyl)anthranilate isomerase (PRAI) (EC 5.3.1.24)	trpF TM_0139	Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)	205
+1nvd	P07547	ARO1_EMENI	reviewed	Pentafunctional AROM polypeptide [Includes: 3-dehydroquinate synthase (DHQS) (EC 4.2.3.4); 3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19) (5-enolpyruvylshikimate-3-phosphate synthase) (EPSP synthase) (EPSPS); Shikimate kinase (SK) (EC 2.7.1.71); 3-dehydroquinate dehydratase (3-dehydroquinase) (EC 4.2.1.10); Shikimate dehydrogenase (EC 1.1.1.25)]	aromA aroA aroM AN0708	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) (Aspergillus nidulans)	1583
+1nvt	Q58484	AROE_METJA	reviewed	Shikimate dehydrogenase (NADP(+)) (SDH) (EC 1.1.1.25)	aroE MJ1084	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) (Methanococcus jannaschii)	282
+1nx2	P04574	CPNS1_PIG	reviewed	Calpain small subunit 1 (CSS1) (Calcium-activated neutral proteinase small subunit) (CANP small subunit) (Calcium-dependent protease small subunit) (CDPS) (Calcium-dependent protease small subunit 1) (Calpain regulatory subunit)	CAPNS1 CAPN4	Sus scrofa (Pig)	266
+1nyw	Q8GIQ0	Q8GIQ0_STRSU	unreviewed	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)	rmlC ELX55_09505 LI88_04185	Streptococcus suis	197
+1o4s	Q9X0Y2	AAT_THEMA	reviewed	Aspartate aminotransferase (AspAT) (EC 2.6.1.1) (Transaminase A)	aspC TM_1255	Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)	377
+1o4t	Q9X113	OXBP_THEMA	reviewed	Oxalate-binding protein (Putative oxalate decarboxylase)	TM_1287	Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)	121
+1o7x	P80148	CISY_SACS2	reviewed	Citrate synthase (EC 2.3.3.16)	gltA SSO2589	Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2) (Sulfolobus solfataricus)	377
+1o80	P02778	CXL10_HUMAN	reviewed	C-X-C motif chemokine 10 (10 kDa interferon gamma-induced protein) (Gamma-IP10) (IP-10) (Small-inducible cytokine B10) [Cleaved into: CXCL10(1-73)]	CXCL10 INP10 SCYB10	Homo sapiens (Human)	98
+1o89	P26646	ACUI_ECOLI	reviewed	Probable acrylyl-CoA reductase AcuI (EC 1.3.1.84) (Acryloyl-coenzyme A reductase AcuI)	acuI yhdH b3253 JW3222	Escherichia coli (strain K12)	324
+1o9e	P93343	1433C_TOBAC	reviewed	14-3-3-like protein C (14-3-3-like protein B)		Nicotiana tabacum (Common tobacco)	260
+1o9l	Q29551	SCOT1_PIG	reviewed	Succinyl-CoA:3-ketoacid coenzyme A transferase 1, mitochondrial (EC 2.8.3.5) (3-oxoacid CoA-transferase 1) (Somatic-type succinyl-CoA:3-oxoacid CoA-transferase) (SCOT-s)	OXCT1 OXCT SCOT	Sus scrofa (Pig)	520
+1oah	Q8VNU2	Q8VNU2_DESDE	unreviewed	Nitrite reductase (cytochrome; ammonia-forming) (EC 1.7.2.2) (Fragment)	nrfA	Desulfovibrio desulfuricans	514
+1oan	P12823	POLG_DEN2P	reviewed	Genome polyprotein [Cleaved into: Capsid protein C (Core protein); Protein prM; Peptide pr; Small envelope protein M (Matrix protein); Envelope protein E; Non-structural protein 1 (NS1); Non-structural protein 2A (NS2A); Serine protease subunit NS2B (Flavivirin protease NS2B regulatory subunit) (Non-structural protein 2B); Serine protease NS3 (EC 3.4.21.91) (EC 3.6.1.15) (EC 3.6.4.13) (Flavivirin protease NS3 catalytic subunit) (Non-structural protein 3); Non-structural protein 4A (NS4A); Peptide 2k; Non-structural protein 4B (NS4B); RNA-directed RNA polymerase NS5 (EC 2.1.1.56) (EC 2.1.1.57) (EC 2.7.7.48) (Non-structural protein 5)]		Dengue virus type 2 (strain Puerto Rico/PR159-S1/1969) (DENV-2)	3388
+1oat	P04181	OAT_HUMAN	reviewed	Ornithine aminotransferase, mitochondrial (EC 2.6.1.13) (Ornithine delta-aminotransferase) (Ornithine--oxo-acid aminotransferase) [Cleaved into: Ornithine aminotransferase, hepatic form; Ornithine aminotransferase, renal form]	OAT	Homo sapiens (Human)	439
+1od2	Q00955	ACAC_YEAST	reviewed	Acetyl-CoA carboxylase (ACC) (EC 6.4.1.2) (Fatty acid synthetase 3) (mRNA transport-defective protein 7) [Includes: Biotin carboxylase (EC 6.3.4.14)]	ACC1 ABP2 FAS3 MTR7 YNR016C N3175	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	2233
+1odb	P80511	S10AC_HUMAN	reviewed	Protein S100-A12 (CGRP) (Calcium-binding protein in amniotic fluid 1) (CAAF1) (Calgranulin-C) (CAGC) (Extracellular newly identified RAGE-binding protein) (EN-RAGE) (Migration inhibitory factor-related protein 6) (MRP-6) (p6) (Neutrophil S100 protein) (S100 calcium-binding protein A12) [Cleaved into: Calcitermin]	S100A12	Homo sapiens (Human)	92
+1ofn	O52806	O52806_AMYOR	unreviewed	PCZA361.16		Amycolatopsis orientalis (Nocardia orientalis)	205
+1oki	P53674	CRBB1_HUMAN	reviewed	Beta-crystallin B1 (Beta-B1 crystallin)	CRYBB1	Homo sapiens (Human)	252
+1onf	Q94655	GSHR_PLAFK	reviewed	Glutathione reductase (GR) (GRase) (EC 1.8.1.7)	GR2	Plasmodium falciparum (isolate K1 / Thailand)	500
+1ord	P43099	DCOR_LACS3	reviewed	Inducible ornithine decarboxylase (ODC) (EC 4.1.1.17)	odcI	Lactobacillus sp. (strain 30a)	731
+1orf	P12544	GRAA_HUMAN	reviewed	Granzyme A (EC 3.4.21.78) (CTL tryptase) (Cytotoxic T-lymphocyte proteinase 1) (Fragmentin-1) (Granzyme-1) (Hanukkah factor) (H factor) (HF)	GZMA CTLA3 HFSP	Homo sapiens (Human)	262
+1ov3	P14598	NCF1_HUMAN	reviewed	Neutrophil cytosol factor 1 (NCF-1) (47 kDa autosomal chronic granulomatous disease protein) (47 kDa neutrophil oxidase factor) (NCF-47K) (Neutrophil NADPH oxidase factor 1) (Nox organizer 2) (Nox-organizing protein 2) (SH3 and PX domain-containing protein 1A) (p47-phox)	NCF1 NOXO2 SH3PXD1A	Homo sapiens (Human)	390
+1ov4	Q06520	ST2A1_HUMAN	reviewed	Bile salt sulfotransferase (EC 2.8.2.14) (Dehydroepiandrosterone sulfotransferase) (DHEA-ST) (Hydroxysteroid Sulfotransferase) (HST) (ST2) (ST2A3) (Sulfotransferase 2A1) (ST2A1)	SULT2A1 HST STD	Homo sapiens (Human)	285
+1ox7	Q12178	FCY1_YEAST	reviewed	Cytosine deaminase (EC 3.5.4.1) (Cytosine aminohydrolase)	FCY1 YPR062W YP9499.17	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	158
+1oyb	Q02899	OYE1_SACPS	reviewed	NADPH dehydrogenase 1 (EC 1.6.99.1) (Old yellow enzyme 1)	OYE1	Saccharomyces pastorianus (Lager yeast) (Saccharomyces cerevisiae x Saccharomyces eubayanus)	400
+1p3w	P0A6B7	ISCS_ECOLI	reviewed	Cysteine desulfurase IscS (EC 2.8.1.7) (NifS protein homolog) (ThiI transpersulfidase) (TusA transpersulfidase)	iscS nuvC yfhO yzzO b2530 JW2514	Escherichia coli (strain K12)	404
+1p9e	Q841S6	Q841S6_PSEWB	unreviewed	Methyl parathion hydrolase	mpd	Pseudomonas sp. (strain WBC-3)	331
+1p9o	Q9HAB8	PPCS_HUMAN	reviewed	Phosphopantothenate--cysteine ligase (EC 6.3.2.5) (Phosphopantothenoylcysteine synthetase) (PPC synthetase)	PPCS COAB	Homo sapiens (Human)	311
+1pb1	P08200	IDH_ECOLI	reviewed	Isocitrate dehydrogenase [NADP] (IDH) (EC 1.1.1.42) (IDP) (NADP(+)-specific ICDH) (Oxalosuccinate decarboxylase)	icd icdA icdE b1136 JW1122	Escherichia coli (strain K12)	416
+1pcz	P62001	TBP_PYRWO	reviewed	TATA-box-binding protein (Box A-binding protein) (BAP) (TATA sequence-binding protein) (TBP) (TATA-box factor)	tbp	Pyrococcus woesei	191
+1pd2	O35543	HPGDS_RAT	reviewed	Hematopoietic prostaglandin D synthase (H-PGDS) (EC 5.3.99.2) (GST class-sigma) (Glutathione S-transferase) (EC 2.5.1.18) (Glutathione-dependent PGD synthase) (Glutathione-requiring prostaglandin D synthase) (Prostaglandin-H2 D-isomerase)	Hpgds Gsts Pgds Ptgds2	Rattus norvegicus (Rat)	199
+1pin	Q13526	PIN1_HUMAN	reviewed	Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1 (EC 5.2.1.8) (Peptidyl-prolyl cis-trans isomerase Pin1) (PPIase Pin1) (Rotamase Pin1)	PIN1	Homo sapiens (Human)	163
+1piw	Q04894	ADH6_YEAST	reviewed	NADP-dependent alcohol dehydrogenase 6 (EC 1.1.1.2) (NADP-dependent alcohol dehydrogenase VI) (ScADHVI)	ADH6 YMR318C YM9924.10C	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	360
+1prh	P05979	PGH1_SHEEP	reviewed	Prostaglandin G/H synthase 1 (EC 1.14.99.1) (Cyclooxygenase-1) (COX-1) (Prostaglandin H2 synthase 1) (PGH synthase 1) (PGHS-1) (PHS 1) (Prostaglandin-endoperoxide synthase 1)	PTGS1 COX1	Ovis aries (Sheep)	600
+1prx	P30041	PRDX6_HUMAN	reviewed	Peroxiredoxin-6 (EC 1.11.1.15) (1-Cys peroxiredoxin) (1-Cys PRX) (24 kDa protein) (Acidic calcium-independent phospholipase A2) (aiPLA2) (EC 3.1.1.4) (Antioxidant protein 2) (Liver 2D page spot 40) (Non-selenium glutathione peroxidase) (NSGPx) (Red blood cells page spot 12)	PRDX6 AOP2 KIAA0106	Homo sapiens (Human)	224
+1psa	P00791	PEPA_PIG	reviewed	Pepsin A (EC 3.4.23.1)	PGA	Sus scrofa (Pig)	385
+1psq	P0C2J8	TPX_STRPN	reviewed	Thiol peroxidase (Tpx) (EC 1.11.1.15) (Peroxiredoxin tpx) (Prx) (Thioredoxin peroxidase)	tpx psaD SP_1651	Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4)	163
+1psr	P31151	S10A7_HUMAN	reviewed	Protein S100-A7 (Psoriasin) (S100 calcium-binding protein A7)	S100A7 PSOR1 S100A7C	Homo sapiens (Human)	101
+1ptm	P19624	PDXA_ECOLI	reviewed	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262) (4-(phosphohydroxy)-L-threonine dehydrogenase)	pdxA b0052 JW0051	Escherichia coli (strain K12)	329
+1puc	P08463	CKS1_SCHPO	reviewed	Cyclin-dependent kinases regulatory subunit (P13)	suc1 SPBC1734.14c	Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast)	113
+1pv9	P81535	PEPQ_PYRFU	reviewed	Xaa-Pro dipeptidase (X-Pro dipeptidase) (EC 3.4.13.9) (Imidodipeptidase) (Proline dipeptidase) (Prolidase)	pepQ PF1343	Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1)	348
+1py9	Q61885	MOG_MOUSE	reviewed	Myelin-oligodendrocyte glycoprotein	Mog	Mus musculus (Mouse)	246
+1pzs	P9WGE9	SODC_MYCTU	reviewed	Superoxide dismutase [Cu-Zn] (EC 1.15.1.1)	sodC Rv0432 MTCY22G10.29	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	240
+1q3o	Q9WV48	SHAN1_RAT	reviewed	SH3 and multiple ankyrin repeat domains protein 1 (Shank1) (GKAP/SAPAP-interacting protein) (SPANK-1) (Somatostatin receptor-interacting protein) (SSTR-interacting protein) (SSTRIP) (Synamon)	Shank1	Rattus norvegicus (Rat)	2167
+1q4j	Q8MU52	GST_PLAFA	reviewed	Glutathione S-transferase (EC 2.5.1.18) (PfGST)	GST	Plasmodium falciparum	211
+1q50	P42861	G6PI_LEIME	reviewed	Glucose-6-phosphate isomerase (GPI) (EC 5.3.1.9) (Phosphoglucose isomerase) (PGI) (Phosphohexose isomerase) (PHI)	PGI	Leishmania mexicana	605
+1q6u	P45523	FKBA_ECOLI	reviewed	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA (PPIase) (EC 5.2.1.8) (Rotamase)	fkpA yzzS b3347 JW3309	Escherichia coli (strain K12)	270
+1q8q	Q8GSD2	Q8GSD2_PTEAG	unreviewed	Lectin (Fragment)		Pterocarpus angolensis (Kiaat tree) (Bleedwood tree)	260
+1qax	P13702	MVAA_PSEMV	reviewed	3-hydroxy-3-methylglutaryl-coenzyme A reductase (HMG-CoA reductase) (EC 1.1.1.88)	mvaA	Pseudomonas mevalonii	428
+1qe0	P60911	SYH_STAAU	reviewed	Histidine--tRNA ligase (EC 6.1.1.21) (Histidyl-tRNA synthetase) (HisRS)	hisS	Staphylococcus aureus	420
+1qi9	P81701	PRXV_ASCNO	reviewed	Vanadium-dependent bromoperoxidase (V-BPO) (EC 1.11.1.18) (Vanadium haloperoxidase)		Ascophyllum nodosum (Knotted wrack) (Brown seaweed)	557
+1qin	Q04760	LGUL_HUMAN	reviewed	Lactoylglutathione lyase (EC 4.4.1.5) (Aldoketomutase) (Glyoxalase I) (Glx I) (Ketone-aldehyde mutase) (Methylglyoxalase) (S-D-lactoylglutathione methylglyoxal lyase)	GLO1	Homo sapiens (Human)	184
+1qkt	P03372	ESR1_HUMAN	reviewed	Estrogen receptor (ER) (ER-alpha) (Estradiol receptor) (Nuclear receptor subfamily 3 group A member 1)	ESR1 ESR NR3A1	Homo sapiens (Human)	595
+1qls	P04083	ANXA1_HUMAN	reviewed	Annexin A1 (Annexin I) (Annexin-1) (Calpactin II) (Calpactin-2) (Chromobindin-9) (Lipocortin I) (Phospholipase A2 inhibitory protein) (p35)	ANXA1 ANX1 LPC1	Homo sapiens (Human)	346
+1qls	P31950	S10AB_PIG	reviewed	Protein S100-A11 (Calgizzarin) (Protein S100-C) (S100 calcium-binding protein A11)	S100A11 S100C	Sus scrofa (Pig)	99
+1qma	P61972	NTF2_RAT	reviewed	Nuclear transport factor 2 (NTF-2)	Nutf2 Ntf2	Rattus norvegicus (Rat)	127
+1qmr	P15494	BEV1A_BETPN	reviewed	Major pollen allergen Bet v 1-A (Allergen Bet v I-A) (allergen Bet v 1-A)	BETVIA BETVI	Betula pendula (European white birch) (Betula verrucosa)	160
+1qo8	Q9Z4P0	FRD2_SHEFN	reviewed	Fumarate reductase flavoprotein subunit (EC 1.3.5.4) (Fe(3+)-induced flavocytochrome C3) (Ifc3) (Iron(III)-induced flavocytochrome C3)	ifcA Sfri_2586	Shewanella frigidimarina (strain NCIMB 400)	588
+1qor	P28304	QOR1_ECOLI	reviewed	Quinone oxidoreductase 1 (EC 1.6.5.5) (NADPH:quinone reductase 1) (Zeta-crystallin homolog protein)	qorA hcz qor qor1 b4051 JW4011	Escherichia coli (strain K12)	327
+1qp8	Q8ZXP5	Q8ZXP5_PYRAE	unreviewed	2-hydroxyacid dehydrogenase	PAE1175	Pyrobaculum aerophilum (strain ATCC 51768 / IM2 / DSM 7523 / JCM 9630 / NBRC 100827)	301
+1qpp	P15319	PAPD_ECOLX	reviewed	Chaperone protein PapD	papD	Escherichia coli	239
+1qrd	P05982	NQO1_RAT	reviewed	NAD(P)H dehydrogenase [quinone] 1 (EC 1.6.5.2) (Azoreductase) (DT-diaphorase) (DTD) (Menadione reductase) (NAD(P)H:quinone oxidoreductase 1) (Phylloquinone reductase) (Quinone reductase 1) (QR1)	Nqo1 Nmor1	Rattus norvegicus (Rat)	274
+1qup	P40202	CCS1_YEAST	reviewed	Superoxide dismutase 1 copper chaperone	CCS1 LYS7 YMR038C YM9532.03C	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	249
+1qvz	Q04432	HSP31_YEAST	reviewed	Glutathione-independent glyoxalase HSP31 (EC 4.2.1.130) (Glyoxalase 3 homolog 1) (Heat shock protein 31)	HSP31 YDR533C D9719.36	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	237
+1qxh	P0A862	TPX_ECOLI	reviewed	Thiol peroxidase (Tpx) (EC 1.11.1.15) (Peroxiredoxin tpx) (Prx) (Scavengase p20) (Thioredoxin peroxidase)	tpx yzzJ b1324 JW1317	Escherichia coli (strain K12)	168
+1qya	P37757	YDDE_ECOLI	reviewed	Uncharacterized isomerase YddE (EC 5.1.-.-) (ORFB)	yddE b1464 JW1459	Escherichia coli (strain K12)	297
+1qyc	Q9LL41	PCBER_PINTA	reviewed	Phenylcoumaran benzylic ether reductase PT1 (PCBER-Pt1) (EC 1.23.1.-) (PtPCBER)	PCBER	Pinus taeda (Loblolly pine)	308
+1qz9	P83788	KYNU_PSEFL	reviewed	Kynureninase (EC 3.7.1.3) (L-kynurenine hydrolase)	kynU	Pseudomonas fluorescens	416
+1qzr	P06786	TOP2_YEAST	reviewed	DNA topoisomerase 2 (EC 5.6.2.3) (DNA topoisomerase II)	TOP2 TOR3 YNL088W N2244	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	1428
+1r1d	Q06174	EST_GEOSE	reviewed	Carboxylesterase (EC 3.1.1.1)	est est30	Geobacillus stearothermophilus (Bacillus stearothermophilus)	246
+1r46	P06280	AGAL_HUMAN	reviewed	Alpha-galactosidase A (EC 3.2.1.22) (Alpha-D-galactosidase A) (Alpha-D-galactoside galactohydrolase) (Melibiase) (Agalsidase)	GLA	Homo sapiens (Human)	429
+1r5a	Q9GQG7	Q9GQG7_9DIPT	unreviewed	Glutathione transferase		Anopheles cracens	218
+1r7a	A0ZZH6	SUCP_BIFAA	reviewed	Sucrose phosphorylase (SP) (SPase) (EC 2.4.1.7)	sucP spl BAD_0078	Bifidobacterium adolescentis (strain ATCC 15703 / DSM 20083 / NCTC 11814 / E194a)	504
+1r7h	O69271	O69271_CORAM	unreviewed	NrdH-redoxin	nrdH	Corynebacterium ammoniagenes (Brevibacterium ammoniagenes)	75
+1r8b	O28126	CCA_ARCFU	reviewed	CCA-adding enzyme (EC 2.7.7.72) (CCA tRNA nucleotidyltransferase) (tRNA CCA-pyrophosphorylase) (tRNA adenylyl-/cytidylyl- transferase) (tRNA nucleotidyltransferase) (tRNA-NT)	cca AF_2156	Archaeoglobus fulgidus (strain ATCC 49558 / VC-16 / DSM 4304 / JCM 9628 / NBRC 100126)	437
+1r8w	Q8GEZ8	Q8GEZ8_CLOBU	unreviewed	B12-independent glycerol dehydratase (Glycerol dehydratase) (Glycyl radical protein)	dhaB1 EI970_17785	Clostridium butyricum	787
+1rft	P82197	PDXK_SHEEP	reviewed	Pyridoxal kinase (EC 2.7.1.35) (Pyridoxine kinase)	PDXK PKH	Ovis aries (Sheep)	312
+1riy	P36206	DBH_THEMA	reviewed	DNA-binding protein HU	hup TM_0266	Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)	90
+1rk4	O00299	CLIC1_HUMAN	reviewed	Chloride intracellular channel protein 1 (Chloride channel ABP) (Nuclear chloride ion channel 27) (NCC27) (Regulatory nuclear chloride ion channel protein) (hRNCC)	CLIC1 G6 NCC27	Homo sapiens (Human)	241
+1rkd	P0A9J6	RBSK_ECOLI	reviewed	Ribokinase (RK) (EC 2.7.1.15)	rbsK b3752 JW3731	Escherichia coli (strain K12)	309
+1rmr	P83658	DIDS_ECHCA	reviewed	Disintegrin schistatin		Echis carinatus (Saw-scaled viper)	64
+1rpo	P03051	ROP_ECOLX	reviewed	Regulatory protein rop (RNA one modulator) (ROM)	rop	Escherichia coli	63
+1rpy	Q9Z200	SH2B2_RAT	reviewed	SH2B adapter protein 2 (Adapter protein with pleckstrin homology and Src homology 2 domains) (SH2 and PH domain-containing adapter protein APS)	Sh2b2 Aps	Rattus norvegicus (Rat)	621
+1mkh,1rqg	Q9V011	SYM_PYRAB	reviewed	Methionine--tRNA ligase (EC 6.1.1.10) (Methionyl-tRNA synthetase) (MetRS)	metG metS PYRAB09870 PAB2364	Pyrococcus abyssi (strain GE5 / Orsay)	722
+1rqi	P22939	ISPA_ECOLI	reviewed	Farnesyl diphosphate synthase (FPP synthase) (EC 2.5.1.10) ((2E,6E)-farnesyl diphosphate synthase) (Geranyltranstransferase)	ispA b0421 JW0411	Escherichia coli (strain K12)	299
+1rrm	P0A9S1	FUCO_ECOLI	reviewed	Lactaldehyde reductase (EC 1.1.1.77) (Propanediol oxidoreductase)	fucO b2799 JW2770	Escherichia coli (strain K12)	382
+1rtr	A0A0H3JWH0	A0A0H3JWH0_STAAW	unreviewed	IspA protein	ispA	Staphylococcus aureus (strain MW2)	293
+1s5k	Q9R381	AAC6_SALEN	reviewed	Aminoglycoside N(6')-acetyltransferase type 1 (EC 2.3.1.82) (AAC(6')-Iy) (Aminoglycoside resistance protein)		Salmonella enteritidis	145
+1s6c	Q63881	KCND2_RAT	reviewed	Potassium voltage-gated channel subfamily D member 2 (RK5) (Shal1) (Voltage-gated potassium channel subunit Kv4.2)	Kcnd2	Rattus norvegicus (Rat)	630
+1s6c	Q8R426	KCIP1_RAT	reviewed	Kv channel-interacting protein 1 (KChIP1) (A-type potassium channel modulatory protein 1) (Potassium channel-interacting protein 1)	Kcnip1 Kchip1	Rattus norvegicus (Rat)	227
+1s96	P60546	KGUA_ECOLI	reviewed	Guanylate kinase (EC 2.7.4.8) (GMP kinase)	gmk spoR b3648 JW3623	Escherichia coli (strain K12)	207
+1sb8	Q8KN66	Q8KN66_PSEAI	unreviewed	WbpP		Pseudomonas aeruginosa	341
+1se8	Q9RY51	SSB_DEIRA	reviewed	Single-stranded DNA-binding protein (SSB)	ssb DR_0099	Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / LMG 4051 / NBRC 15346 / NCIMB 9279 / R1 / VKM B-1422)	301
+1sei	P56209	RS8_GEOSE	reviewed	30S ribosomal protein S8 (BS8)	rpsH	Geobacillus stearothermophilus (Bacillus stearothermophilus)	131
+1sep	Q64105	SPRE_MOUSE	reviewed	Sepiapterin reductase (SPR) (EC 1.1.1.153)	Spr	Mus musculus (Mouse)	261
+1sez	O24164	PPOM_TOBAC	reviewed	Protoporphyrinogen oxidase, mitochondrial (EC 1.3.3.4) (PX-2) (Protoporphyrinogen IX oxidase isozyme II) (PPO II) (PPX II)	PPXII PPOX2	Nicotiana tabacum (Common tobacco)	504
+1sfn	Q9RV77	Q9RV77_DEIRA	unreviewed	Uncharacterized protein	DR_1152	Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / LMG 4051 / NBRC 15346 / NCIMB 9279 / R1 / VKM B-1422)	246
+1sg0	P16083	NQO2_HUMAN	reviewed	Ribosyldihydronicotinamide dehydrogenase [quinone] (EC 1.10.5.1) (NRH dehydrogenase [quinone] 2) (NRH:quinone oxidoreductase 2) (Quinone reductase 2) (QR2)	NQO2 NMOR2	Homo sapiens (Human)	231
+1sj1	P29603	FER_PYRFU	reviewed	Ferredoxin	fdxA PF1909	Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1)	67
+1sla	P11116	LEG1_BOVIN	reviewed	Galectin-1 (Gal-1) (14 kDa lectin) (Beta-galactoside-binding lectin L-14-I) (Galaptin) (Lactose-binding lectin 1) (Lectin galactoside-binding soluble 1) (S-Lac lectin 1)	LGALS1	Bos taurus (Bovine)	135
+1so6	P39304	ULAD_ECOLI	reviewed	3-keto-L-gulonate-6-phosphate decarboxylase UlaD (EC 4.1.1.85) (3-dehydro-L-gulonate-6-phosphate decarboxylase) (KGPDC) (L-ascorbate utilization protein D)	ulaD sgaH yjfV b4196 JW4154	Escherichia coli (strain K12)	216
+1sqd	P93836	HPPD_ARATH	reviewed	4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27) (4-hydroxyphenylpyruvic acid oxidase) (4HPPD) (HPD) (HPPDase)	HPD PDS1 At1g06570 F12K11.9	Arabidopsis thaliana (Mouse-ear cress)	445
+1sqe	Q99X56	HDOX2_STAAM	reviewed	Heme oxygenase (staphylobilin-producing) 2 (EC 1.14.99.48) (Heme-degrading monooxygenase 2) (Iron-regulated surface determinant 2) (Iron-responsive surface determinant 2)	isdI SAV0165	Staphylococcus aureus (strain Mu50 / ATCC 700699)	108
+1sqi	P32755	HPPD_RAT	reviewed	4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27) (4-hydroxyphenylpyruvic acid oxidase) (4HPPD) (HPD) (HPPDase) (F Alloantigen) (F protein)	Hpd	Rattus norvegicus (Rat)	393
+1su2	Q9RVK2	Q9RVK2_DEIRA	unreviewed	MutT/nudix family protein	DR_1025	Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / LMG 4051 / NBRC 15346 / NCIMB 9279 / R1 / VKM B-1422)	159
+1t0i	Q07923	LOT6_YEAST	reviewed	NAD(P)H-dependent FMN reductase LOT6 (FMN reductase LOT6) (EC 1.5.1.39) (Azoreductase LOT6) (FMN reductase [NAD(P)H]) (Low temperature response protein 6)	LOT6 YLR011W	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	191
+1t3c	Q00496	BXE_CLOBO	reviewed	Botulinum neurotoxin type E (BoNT/E) (Bontoxilysin-E) [Cleaved into: Botulinum neurotoxin E light chain (LC) (EC 3.4.24.69); Botulinum neurotoxin E heavy chain (HC)]	botE	Clostridium botulinum	1251
+1t3i	Q55793	CSD_SYNY3	reviewed	Probable cysteine desulfurase (EC 2.8.1.7)	csd sufS slr0077	Synechocystis sp. (strain PCC 6803 / Kazusa)	420
+1t47	Q53586	HPPD_STRAW	reviewed	4-hydroxyphenylpyruvate dioxygenase (4HPPD) (HPD) (HPPDase) (EC 1.13.11.27)	hpd SAV_5149	Streptomyces avermitilis (strain ATCC 31267 / DSM 46492 / JCM 5070 / NBRC 14893 / NCIMB 12804 / NRRL 8165 / MA-4680)	381
+1t5d	Q8GN86	Q8GN86_9BURK	unreviewed	4-chlorobenzoyl CoA ligase		Alcaligenes sp. AL3007	504
+1tbp	P13393	TBP_YEAST	reviewed	TATA-box-binding protein (TATA sequence-binding protein) (TBP) (TATA-binding factor) (TATA-box factor) (Transcription factor D) (Transcription initiation factor TFIID TBP subunit)	SPT15 BTF1 TBP1 YER148W	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	240
+1td2	P77150	PDXY_ECOLI	reviewed	Pyridoxal kinase PdxY (PL kinase) (EC 2.7.1.35) (Pyridoxal kinase 2) (PL kinase 2)	pdxY ydgS b1636 JW1628	Escherichia coli (strain K12)	287
+1tdf	P0A9P4	TRXB_ECOLI	reviewed	Thioredoxin reductase (TRXR) (EC 1.8.1.9)	trxB b0888 JW0871	Escherichia coli (strain K12)	321
+1tfc	P62508	ERR3_HUMAN	reviewed	Estrogen-related receptor gamma (ERR gamma-2) (Estrogen receptor-related protein 3) (Nuclear receptor subfamily 3 group B member 3)	ESRRG ERR3 ERRG2 KIAA0832 NR3B3	Homo sapiens (Human)	458
+1tfc	Q15788	NCOA1_HUMAN	reviewed	Nuclear receptor coactivator 1 (NCoA-1) (EC 2.3.1.48) (Class E basic helix-loop-helix protein 74) (bHLHe74) (Protein Hin-2) (RIP160) (Renal carcinoma antigen NY-REN-52) (Steroid receptor coactivator 1) (SRC-1)	NCOA1 BHLHE74 SRC1	Homo sapiens (Human)	1441
+1tik	P41407	AZOR_ECOLI	reviewed	FMN-dependent NADH-azoreductase (EC 1.7.1.17) (Azo-dye reductase) (FMN-dependent NADH-azo compound oxidoreductase)	azoR acpD b1412 JW1409	Escherichia coli (strain K12)	201
+1tis	P00471	TYSY_BPT4	reviewed	Thymidylate synthase (TS) (TSase) (EC 2.1.1.45)	TD	Enterobacteria phage T4 (Bacteriophage T4)	286
+1tkl	P11353	HEM6_YEAST	reviewed	Oxygen-dependent coproporphyrinogen-III oxidase (COX) (Coprogen oxidase) (Coproporphyrinogenase) (EC 1.3.3.3)	HEM13 YDR044W YD5112.02	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	328
+1tlg	P16108	LECC_POLMI	reviewed	Lectin		Polyandrocarpa misakiensis (Tunicate)	125
+1tlk	P56276	MYLK_MELGA	reviewed	Telokin		Meleagris gallopavo (Wild turkey)	154
+1tre	P0A858	TPIS_ECOLI	reviewed	Triosephosphate isomerase (TIM) (TPI) (EC 5.3.1.1) (Triose-phosphate isomerase)	tpiA tpi b3919 JW3890	Escherichia coli (strain K12)	255
+1tvd	A0JD37	TRDV3_HUMAN	reviewed	T cell receptor delta variable 3	TRDV3 hDV103S1	Homo sapiens (Human)	113
+1tvz	Q9FD87	Q9FD87_STAAU	unreviewed	HMG-CoA synthase	mvaS	Staphylococcus aureus	388
+1tw3	Q06528	DNRK_STRPE	reviewed	Carminomycin 4-O-methyltransferase DnrK (COMT) (EC 2.1.1.292) (Anthracycline 4-O-methyltransferase)	dnrK	Streptomyces peucetius	356
+1tyt	P39040	TYTR_CRIFA	reviewed	Trypanothione reductase (TR) (EC 1.8.1.12) (N(1),N(8)-bis(glutathionyl)spermidine reductase)	TPR	Crithidia fasciculata	491
+1u08	P77806	YBDL_ECOLI	reviewed	Methionine aminotransferase (EC 2.6.1.88) (Methionine-oxo-acid transaminase)	ybdL b0600 JW0593	Escherichia coli (strain K12)	386
+1u0k	Q9HV82	Q9HV82_PSEAE	unreviewed	Uncharacterized protein	PA4716	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	284
+1u0m	Q9FCA7	RPPA_STRCO	reviewed	1,3,6,8-tetrahydroxynaphthalene synthase (THNS) (EC 2.3.1.233) (1,3,6,8-tetrahydroxynaphthalene synthesis polyketide synthase type III)	SCO1206	Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145)	374
+1u7u	P0ABQ0	COABC_ECOLI	reviewed	Coenzyme A biosynthesis bifunctional protein CoaBC (DNA/pantothenate metabolism flavoprotein) [Includes: Phosphopantothenoylcysteine decarboxylase (PPCDC) (EC 4.1.1.36) (CoaC); Phosphopantothenate--cysteine ligase (EC 6.3.2.5) (CoaB) (PPC synthetase) (PPCS) (Phosphopantothenoylcysteine synthase)]	coaBC dfp b3639 JW5642	Escherichia coli (strain K12)	406
+1uam	P43912	TRMD_HAEIN	reviewed	tRNA (guanine-N(1)-)-methyltransferase (EC 2.1.1.228) (M1G-methyltransferase) (tRNA [GM37] methyltransferase)	trmD HI_0202	Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)	246
+1uby	P08836	FPPS_CHICK	reviewed	Farnesyl pyrophosphate synthase (FPP synthase) (FPS) (EC 2.5.1.10) ((2E,6E)-farnesyl diphosphate synthase) (Dimethylallyltranstransferase) (EC 2.5.1.1) (Farnesyl diphosphate synthase) (Geranyltranstransferase)	FDPS	Gallus gallus (Chicken)	367
+1ucf	Q99497	PARK7_HUMAN	reviewed	Protein/nucleic acid deglycase DJ-1 (EC 3.1.2.-) (EC 3.5.1.-) (EC 3.5.1.124) (Maillard deglycase) (Oncogene DJ1) (Parkinson disease protein 7) (Parkinsonism-associated deglycase) (Protein DJ-1) (DJ-1)	PARK7	Homo sapiens (Human)	189
+1udv	Q97ZF4	ALBA2_SACS2	reviewed	DNA/RNA-binding protein Alba 2	albA2 SSO6877	Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2) (Sulfolobus solfataricus)	89
+1uis	Q8ISF8	RFP_ENTQU	reviewed	Red fluorescent protein eqFP611 (GFP-like chromoprotein)		Entacmaea quadricolor (Bubble-tip anemone) (Parasicyonis actinostoloides)	231
+1ujn	P83703	P83703_THETH	unreviewed	3-dehydroquinate synthase (DHQS) (EC 4.2.3.4)	aroB TTHN1_00272	Thermus thermophilus	348
+1ult	Q5SKN9	LCFCS_THET8	reviewed	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3) (Long-chain fatty acyl-CoA synthetase) (LC-FACS)	TTHA0604	Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)	541
+1umo	Q8WWM9	CYGB_HUMAN	reviewed	Cytoglobin (Histoglobin) (HGb) (Stellate cell activation-associated protein)	CYGB STAP	Homo sapiens (Human)	190
+1uou	P19971	TYPH_HUMAN	reviewed	Thymidine phosphorylase (TP) (EC 2.4.2.4) (Gliostatin) (Platelet-derived endothelial cell growth factor) (PD-ECGF) (TdRPase)	TYMP ECGF1	Homo sapiens (Human)	482
+1upi	P9WH11	RMLC_MYCTU	reviewed	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13) (Thymidine diphospho-4-keto-rhamnose 3,5-epimerase) (dTDP-4-keto-6-deoxyglucose 3,5-epimerase) (dTDP-6-deoxy-D-xylo-4-hexulose 3,5-epimerase) (dTDP-L-rhamnose synthase)	rmlC strM Rv3465	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	202
+1uq5	P02879	RICI_RICCO	reviewed	Ricin [Cleaved into: Ricin A chain (EC 3.2.2.22) (rRNA N-glycosidase); Linker peptide; Ricin B chain]		Ricinus communis (Castor bean)	576
+1uu2	Q9X0D0	HIS8_THEMA	reviewed	Histidinol-phosphate aminotransferase (EC 2.6.1.9) (Imidazole acetol-phosphate transaminase)	hisC TM_1040	Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)	335
+1uuf	P75691	YAHK_ECOLI	reviewed	Aldehyde reductase YahK (EC 1.1.1.2) (Zinc-dependent alcohol dehydrogenase YahK)	yahK b0325 JW0317	Escherichia coli (strain K12)	349
+1uuj	P63005	LIS1_MOUSE	reviewed	Platelet-activating factor acetylhydrolase IB subunit alpha (Lissencephaly-1 protein) (LIS-1) (PAF acetylhydrolase 45 kDa subunit) (PAF-AH 45 kDa subunit) (PAF-AH alpha) (PAFAH alpha)	Pafah1b1 Lis-1 Lis1 Pafaha	Mus musculus (Mouse)	410
+1uwh	P15056	BRAF_HUMAN	reviewed	Serine/threonine-protein kinase B-raf (EC 2.7.11.1) (Proto-oncogene B-Raf) (p94) (v-Raf murine sarcoma viral oncogene homolog B1)	BRAF BRAF1 RAFB1	Homo sapiens (Human)	766
+1v08	P49235	HGGL1_MAIZE	reviewed	4-hydroxy-7-methoxy-3-oxo-3,4-dihydro-2H-1,4-benzoxazin-2-yl glucoside beta-D-glucosidase 1, chloroplastic (EC 3.2.1.182) (Beta-D-glucoside glucohydrolase) (Beta-glucosidase 1) (ZmGlu1) (EC 3.2.1.21)	GLU1	Zea mays (Maize)	566
+1v1o	Q9ZFS5	Q9ZFS5_STAAU	unreviewed	Exotoxin 1	set1 ERS072840_02173 NCTC7878_00468	Staphylococcus aureus	231
+1v2f	Q75WK2	Q75WK2_THETH	unreviewed	Aminotransferase		Thermus thermophilus	381
+1v2z	Q79V62	KAIA_THEEB	reviewed	Circadian clock protein KaiA	kaiA tlr0481	Thermosynechococcus elongatus (strain BP-1)	283
+1v3v	Q9EQZ5	PTGR1_CAVPO	reviewed	Prostaglandin reductase 1 (PRG-1) (EC 1.3.1.-) (15-oxoprostaglandin 13-reductase) (PGR) (EC 1.3.1.48) (NADP-dependent leukotriene B4 12-hydroxydehydrogenase) (12-HD) (LTB4) (EC 1.3.1.74)	Ptgr1 Ltb4dh	Cavia porcellus (Guinea pig)	329
+1v47	Q5SKH7	Q5SKH7_THET8	unreviewed	ATP sulfurylase (Sulfate adenylyltransferase)	TTHA0666	Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)	349
+1v59	P09624	DLDH_YEAST	reviewed	Dihydrolipoyl dehydrogenase, mitochondrial (EC 1.8.1.4) (Dihydrolipoamide dehydrogenase) (Glycine decarboxylase complex subunit L) (Lipoamide dehydrogenase component of pyruvate dehydrogenase complex) (Pyruvate dehydrogenase complex E3 component)	LPD1 DHLP1 YFL018C	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	499
+1v5x	P83825	P83825_THETH	unreviewed	N-(5'-phosphoribosyl)anthranilate isomerase (PRAI) (EC 5.3.1.24)	trpF	Thermus thermophilus	203
+1v9c	P83848	P83848_THETH	unreviewed	Probable precorrin-8X methylmutase (Precorrin isomerase) (EC 5.4.1.2)		Thermus thermophilus	218
+1vc1	Q9X1F5	Y1442_THEMA	reviewed	Putative anti-sigma factor antagonist TM_1442	TM_1442	Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)	110
+1vdc	Q39243	TRXB1_ARATH	reviewed	Thioredoxin reductase 1, mitochondrial (EC 1.8.1.9) (NADPH-dependent thioredoxin reductase 1) (NTR1) (NADPH-dependent thioredoxin reductase B) (AtNTRB)	NTR1 NTRB At4g35460 F15J1.30	Arabidopsis thaliana (Mouse-ear cress)	375
+1vdw	O59523	O59523_PYRHO	unreviewed	Uncharacterized protein	PH1897	Pyrococcus horikoshii (strain ATCC 700860 / DSM 12428 / JCM 9974 / NBRC 100139 / OT-3)	254
+1vgz	Q5F829	ISPD_NEIG1	reviewed	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60) (4-diphosphocytidyl-2C-methyl-D-erythritol synthase) (MEP cytidylyltransferase) (MCT)	ispD NGO0972	Neisseria gonorrhoeae (strain ATCC 700825 / FA 1090)	229
+1vhd	Q9X022	Q9X022_THEMA	unreviewed	Alcohol dehydrogenase, iron-containing	TM_0920	Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)	359
+1vhm	P76270	MSRC_ECOLI	reviewed	Free methionine-R-sulfoxide reductase (fRMsr) (EC 1.8.4.14)	msrC yebR b1832 JW1821	Escherichia coli (strain K12)	165
+1vhz	P45799	NUDE_ECOLI	reviewed	ADP compounds hydrolase NudE (EC 3.6.1.-)	nudE yrfE b3397 JW3360	Escherichia coli (strain K12)	186
+1vj2	Q9X1H0	Q9X1H0_THEMA	unreviewed	Uncharacterized protein	TM_1459	Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)	114
+1vjo	Q8YY48	Q8YY48_NOSS1	unreviewed	Alanine--glyoxylate aminotransferase	alr1004	Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576)	381
+1vlj	Q9WZS7	Q9WZS7_THEMA	unreviewed	NADH-dependent butanol dehydrogenase, putative	TM_0820	Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)	395
+1vm7	Q9X055	Q9X055_THEMA	unreviewed	Ribokinase (RK) (EC 2.7.1.15)	rbsK TM_0960	Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)	299
+1vpi	P04084	PA2A_VIPAE	reviewed	Acidic phospholipase A2 homolog vipoxin A chain (svPLA2 homolog) (Acidic phospholipase A2 inhibitor vipoxin A chain) (Vipoxin acidic component) (VAC) (Vipoxin non-toxic component)		Vipera ammodytes meridionalis (Eastern sand viper)	122
+1w7n	Q16773	KAT1_HUMAN	reviewed	Kynurenine--oxoglutarate transaminase 1 (EC 2.6.1.7) (Cysteine-S-conjugate beta-lyase) (EC 4.4.1.13) (Glutamine transaminase K) (GTK) (Glutamine--phenylpyruvate transaminase) (EC 2.6.1.64) (Kynurenine aminotransferase 1) (Kynurenine aminotransferase I) (KATI) (Kynurenine--oxoglutarate transaminase I)	KYAT1 CCBL1	Homo sapiens (Human)	422
+1wcy	P27487	DPP4_HUMAN	reviewed	Dipeptidyl peptidase 4 (EC 3.4.14.5) (ADABP) (Adenosine deaminase complexing protein 2) (ADCP-2) (Dipeptidyl peptidase IV) (DPP IV) (T-cell activation antigen CD26) (TP103) (CD antigen CD26) [Cleaved into: Dipeptidyl peptidase 4 membrane form (Dipeptidyl peptidase IV membrane form); Dipeptidyl peptidase 4 soluble form (Dipeptidyl peptidase IV soluble form)]	DPP4 ADCP2 CD26	Homo sapiens (Human)	766
+1wmy	Q7M462	Q7M462_CUCEC	unreviewed	Lectin CEL-I, N-acetyl-D-galactosamine-specific C-type		Cucumaria echinata (Sea cucumber)	140
+1x1z	O26232	PYRF_METTH	reviewed	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23) (OMP decarboxylase) (OMPDCase) (OMPdecase)	pyrF MTH_129	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H) (Methanobacterium thermoautotrophicum)	228
+1x2a	P00509	AAT_ECOLI	reviewed	Aspartate aminotransferase (AspAT) (EC 2.6.1.1) (Transaminase A)	aspC b0928 JW0911	Escherichia coli (strain K12)	396
+1x77	Q9I4D4	FMNRE_PSEAE	reviewed	NAD(P)H-dependent FMN reductase PA1204 (EC 1.-.-.-)	PA1204	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	185
+1xkj	P07739	LUXB_VIBHA	reviewed	Alkanal monooxygenase beta chain (EC 1.14.14.3) (Bacterial luciferase beta chain)	luxB	Vibrio harveyi (Beneckea harveyi)	324
+1z3a	P68398	TADA_ECOLI	reviewed	tRNA-specific adenosine deaminase (EC 3.5.4.33)	tadA yfhC b2559 JW2543	Escherichia coli (strain K12)	167
+1zop	P20701	ITAL_HUMAN	reviewed	Integrin alpha-L (CD11 antigen-like family member A) (Leukocyte adhesion glycoprotein LFA-1 alpha chain) (LFA-1A) (Leukocyte function-associated molecule 1 alpha chain) (CD antigen CD11a)	ITGAL CD11A	Homo sapiens (Human)	1170
+2a4n	Q47764	Q47764_ENTFC	unreviewed	Aac(6')-Ii protein	aac(6')-Ii	Enterococcus faecium (Streptococcus faecium)	182
+2a4x	O05205	O05205_STRLA	unreviewed	Mitomycin-binding protein (Mrd)	mrd	Streptomyces lavendulae	130
+2ag8	Q9K1N1	Q9K1N1_NEIMB	unreviewed	Pyrroline-5-carboxylate reductase (P5C reductase) (P5CR) (EC 1.5.1.2) (PCA reductase)	proC NMB0055	Neisseria meningitidis serogroup B (strain MC58)	263
+2aj9	P9WNG3	FABH_MYCTU	reviewed	3-oxoacyl-[acyl-carrier-protein] synthase 3 (EC 2.3.1.180) (3-oxoacyl-[acyl-carrier-protein] synthase III) (Beta-ketoacyl-ACP synthase III) (KAS III) (MtFabH)	fabH Rv0533c MTCY25D10.12c	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	335
+2ak7	O06976	CRH_BACSU	reviewed	HPr-like protein Crh (Catabolite repression HPr)	crh yvcM BSU34740	Bacillus subtilis (strain 168)	85
+2aps	P24702	SODC_ACTPL	reviewed	Superoxide dismutase [Cu-Zn] (EC 1.15.1.1)	sodC	Actinobacillus pleuropneumoniae (Haemophilus pleuropneumoniae)	190
+2av6	P00490	PHSM_ECOLI	reviewed	Maltodextrin phosphorylase (EC 2.4.1.1)	malP b3417 JW5689	Escherichia coli (strain K12)	797
+2ay8	P95468	TYRB_PARDE	reviewed	Aromatic-amino-acid aminotransferase (ARAT) (AROAT) (EC 2.6.1.57)	tyrB	Paracoccus denitrificans	394
+2bk3	P27338	AOFB_HUMAN	reviewed	Amine oxidase [flavin-containing] B (EC 1.4.3.4) (Monoamine oxidase type B) (MAO-B)	MAOB	Homo sapiens (Human)	520
+2blg	P02754	LACB_BOVIN	reviewed	Beta-lactoglobulin (Beta-LG) (allergen Bos d 5)	LGB	Bos taurus (Bovine)	178
+2bt3	P46881	PAOX_ARTGO	reviewed	Phenylethylamine oxidase (EC 1.4.3.21) (Primary amine oxidase)		Arthrobacter globiformis	638
+2c9s	P00441	SODC_HUMAN	reviewed	Superoxide dismutase [Cu-Zn] (EC 1.15.1.1) (Superoxide dismutase 1) (hSod1)	SOD1	Homo sapiens (Human)	154
+2cai	P30113	GST28_SCHBO	reviewed	Glutathione S-transferase class-mu 28 kDa isozyme (GST 28) (EC 2.5.1.18) (Sb28GST)		Schistosoma bovis (Blood fluke)	211
+2ccy	P00152	CYCP_PHAMO	reviewed	Cytochrome c'		Phaeospirillum molischianum (Rhodospirillum molischianum)	128
+2dab	P19938	DAAA_BACYM	reviewed	D-alanine aminotransferase (EC 2.6.1.21) (D-amino acid aminotransferase) (D-amino acid transaminase) (DAAT) (D-aspartate aminotransferase)	dat	Bacillus sp. (strain YM-1)	283
+2dld	P30901	LDHD_LACHE	reviewed	D-lactate dehydrogenase (D-LDH) (EC 1.1.1.28) (D-specific 2-hydroxyacid dehydrogenase)		Lactobacillus helveticus (Lactobacillus suntoryeus)	337
+2dpg	P11411	G6PD_LEUME	reviewed	Glucose-6-phosphate 1-dehydrogenase (G6PD) (EC 1.1.1.363) (Glucose-6-phosphate dehydrogenase (NAD(P)(+)))	zwf	Leuconostoc mesenteroides	486
+2dts	P01857	IGHG1_HUMAN	reviewed	Immunoglobulin heavy constant gamma 1 (Ig gamma-1 chain C region) (Ig gamma-1 chain C region EU) (Ig gamma-1 chain C region KOL) (Ig gamma-1 chain C region NIE)	IGHG1	Homo sapiens (Human)	330
+2f48	P70826	PFP_BORBU	reviewed	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase (EC 2.7.1.90) (6-phosphofructokinase, pyrophosphate dependent) (PPi-dependent phosphofructokinase) (PPi-PFK) (Pyrophosphate-dependent 6-phosphofructose-1-kinase)	pfp PFK2 pfpB BB_0020	Borrelia burgdorferi (strain ATCC 35210 / B31 / CIP 102532 / DSM 4680)	555
+2f5c	P54512	MNTR_BACSU	reviewed	HTH-type transcriptional regulator MntR (Manganese transport regulator) (Manganese(II) metalloregulatory protein MntR)	mntR yqhN BSU24520	Bacillus subtilis (strain 168)	142
+2fbz	O34453	NOSO_BACSU	reviewed	Nitric oxide synthase oxygenase (EC 1.14.14.47) (NOSoxy-like protein)	nos yflM BSU07630	Bacillus subtilis (strain 168)	363
+2ff2	Q9GPQ4	Q9GPQ4_TRYVI	unreviewed	IAG-nucleoside hydrolase		Trypanosoma vivax (Duttonella vivax)	327
+2fts	P20781	GLRB_RAT	reviewed	Glycine receptor subunit beta (Glycine receptor 58 kDa subunit)	Glrb	Rattus norvegicus (Rat)	496
+2fts	Q03555	GEPH_RAT	reviewed	Gephyrin (Putative glycine receptor-tubulin linker protein) [Includes: Molybdopterin adenylyltransferase (MPT adenylyltransferase) (EC 2.7.7.75) (Domain G); Molybdopterin molybdenumtransferase (MPT Mo-transferase) (EC 2.10.1.1) (Domain E)]	Gphn Gph	Rattus norvegicus (Rat)	768
+2g6w	P12998	BIOF_ECOLI	reviewed	8-amino-7-oxononanoate synthase (AONS) (EC 2.3.1.47) (7-keto-8-amino-pelargonic acid synthase) (7-KAP synthase) (KAPA synthase) (8-amino-7-ketopelargonate synthase)	bioF b0776 JW0759	Escherichia coli (strain K12)	384
+2gsq	P46088	GST_NOTSL	reviewed	Glutathione S-transferase (EC 2.5.1.18) (GST class-sigma)		Nototodarus sloanii (Wellington flying squid) (Ommastrephes sloanei)	203
+2h4x	P07738	PMGE_HUMAN	reviewed	Bisphosphoglycerate mutase (BPGM) (EC 5.4.2.4) (2,3-bisphosphoglycerate mutase, erythrocyte) (2,3-bisphosphoglycerate synthase) (EC 5.4.2.11) (2,3-diphosphoglycerate mutase) (DPGM) (BPG-dependent PGAM)	BPGM	Homo sapiens (Human)	259
+2hgs	P48637	GSHB_HUMAN	reviewed	Glutathione synthetase (GSH synthetase) (GSH-S) (EC 6.3.2.3) (Glutathione synthase)	GSS	Homo sapiens (Human)	474
+2hr5	Q9UWP7	Q9UWP7_9EURY	unreviewed	Rubrerythrin		Pyrococcus furiosus	171
+2itg	P12497	POL_HV1N5	reviewed	Gag-Pol polyprotein (Pr160Gag-Pol) [Cleaved into: Matrix protein p17 (MA); Capsid protein p24 (CA); Spacer peptide 1 (SP1) (p2); Nucleocapsid protein p7 (NC); Transframe peptide (TF); p6-pol (p6*); Protease (EC 3.4.23.16) (PR) (Retropepsin); Reverse transcriptase/ribonuclease H (EC 2.7.7.49) (EC 2.7.7.7) (EC 3.1.26.13) (Exoribonuclease H) (EC 3.1.13.2) (p66 RT); p51 RT; p15; Integrase (IN) (EC 2.7.7.-) (EC 3.1.-.-)]	gag-pol	Human immunodeficiency virus type 1 group M subtype B (isolate NY5) (HIV-1)	1435
+2j6h	P17169	GLMS_ECOLI	reviewed	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16) (D-fructose-6-phosphate amidotransferase) (GFAT) (Glucosamine-6-phosphate synthase) (Hexosephosphate aminotransferase) (L-glutamine--D-fructose-6-phosphate amidotransferase)	glmS b3729 JW3707	Escherichia coli (strain K12)	609
+2lig	P02941	MCP2_SALTY	reviewed	Methyl-accepting chemotaxis protein II (MCP-II) (Aspartate chemoreceptor protein)	tar cheM STM1919	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	553
+2nad	P33160	FDH_PSESR	reviewed	Formate dehydrogenase (FDH) (EC 1.17.1.9) (NAD-dependent formate dehydrogenase)		Pseudomonas sp. (strain 101) (Achromobacter parvulus T1)	401
+2nqn	P12281	MOEA_ECOLI	reviewed	Molybdopterin molybdenumtransferase (MPT Mo-transferase) (EC 2.10.1.1)	moeA bisB chlE narE b0827 JW0811	Escherichia coli (strain K12)	411
+2opy	P98170	XIAP_HUMAN	reviewed	E3 ubiquitin-protein ligase XIAP (EC 2.3.2.27) (Baculoviral IAP repeat-containing protein 4) (IAP-like protein) (ILP) (hILP) (Inhibitor of apoptosis protein 3) (IAP-3) (hIAP-3) (hIAP3) (RING-type E3 ubiquitin transferase XIAP) (X-linked inhibitor of apoptosis protein) (X-linked IAP)	XIAP API3 BIRC4 IAP3	Homo sapiens (Human)	497
+2oz9	P0A881	TRPR_ECOLI	reviewed	Trp operon repressor	trpR rtrY b4393 JW4356	Escherichia coli (strain K12)	108
+2pfl	P09373	PFLB_ECOLI	reviewed	Formate acetyltransferase 1 (EC 2.3.1.54) (Pyruvate formate-lyase 1)	pflB pfl b0903 JW0886	Escherichia coli (strain K12)	760
+2phk	P00518	PHKG1_RABIT	reviewed	Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform (EC 2.7.11.19) (Phosphorylase kinase subunit gamma-1) (Serine/threonine-protein kinase PHKG1) (EC 2.7.11.1) (EC 2.7.11.26)	PHKG1 PHKG	Oryctolagus cuniculus (Rabbit)	387
+2qjd	Q8UWK5	Q8UWK5_ICTPU	unreviewed	Novel immune-type receptor 10 (novel immune-type receptor 10 precursor)	NITR10 nitr10	Ictalurus punctatus (Channel catfish) (Silurus punctatus)	206
+2snw	P03316	POLS_SINDV	reviewed	Structural polyprotein (p130) [Cleaved into: Capsid protein (EC 3.4.21.90) (Coat protein) (C); Precursor of protein E3/E2 (p62) (pE2); Assembly protein E3; Spike glycoprotein E2 (E2 envelope glycoprotein); 6K protein; Spike glycoprotein E1 (E1 envelope glycoprotein)]		Sindbis virus (SINV)	1245
+2tmk	P00572	KTHY_YEAST	reviewed	Thymidylate kinase (EC 2.7.4.9) (dTMP kinase)	CDC8 YJR057W J1715	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	216
+2z9a	P07602	SAP_HUMAN	reviewed	Prosaposin (Proactivator polypeptide) [Cleaved into: Saposin-A (Protein A); Saposin-B-Val; Saposin-B (Cerebroside sulfate activator) (CSAct) (Dispersin) (Sphingolipid activator protein 1) (SAP-1) (Sulfatide/GM1 activator); Saposin-C (A1 activator) (Co-beta-glucosidase) (Glucosylceramidase activator) (Sphingolipid activator protein 2) (SAP-2); Saposin-D (Component C) (Protein C)]	PSAP GLBA SAP1	Homo sapiens (Human)	524
+3gar	P08179	PUR3_ECOLI	reviewed	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2) (5'-phosphoribosylglycinamide transformylase) (GAR transformylase) (GART)	purN b2500 JW2485	Escherichia coli (strain K12)	212
+3gsb	P24630	GSA_SYNP6	reviewed	Glutamate-1-semialdehyde 2,1-aminomutase (GSA) (EC 5.4.3.8) (Glutamate-1-semialdehyde aminotransferase) (GSA-AT)	hemL gsa syc0881_c	Synechococcus sp. (strain ATCC 27144 / PCC 6301 / SAUG 1402/1) (Anacystis nidulans)	433
+3kz9	Q9L8G8	Q9L8G8_VIBVL	unreviewed	LuxR family transcriptional regulator (Quorum-sensing regulator of virulence HapR) (SmcR) (SmcR-like protein) (TetR/AcrR family transcriptional regulator) (VvpR)	smcR vvpR CRN32_08135 CRN52_17705 CRN59_13285 CRN61_16390 FORC36_2381 JS86_16400	Vibrio vulnificus	205
+3ljr	P0CG30	GSTT2_HUMAN	reviewed	Glutathione S-transferase theta-2B (EC 2.5.1.18) (GST class-theta-2) (Glutathione S-transferase theta-2)	GSTT2B GSTT2	Homo sapiens (Human)	244
+3orq	A0A0H3KFM7	A0A0H3KFM7_STAAE	unreviewed	N5-carboxyaminoimidazole ribonucleotide synthase (N5-CAIR synthase) (EC 6.3.4.18) (5-(carboxyamino)imidazole ribonucleotide synthetase)	purK NWMN_0934	Staphylococcus aureus (strain Newman)	374
+3sdh	P02213	GLB1_ANAIN	reviewed	Globin-1 (Dimeric hemoglobin) (Globin I) (HbI)		Anadara inaequivalvis (Inequivalve ark) (Scapharca inaequivalvis)	146
+4cpv	P02618	PRVB_CYPCA	reviewed	Parvalbumin beta		Cyprinus carpio (Common carp)	108
+4fiv	P16088	POL_FIVPE	reviewed	Pol polyprotein [Cleaved into: Protease (Retropepsin) (EC 3.4.23.-); Reverse transcriptase/ribonuclease H (RT) (EC 2.7.7.49) (EC 3.1.26.13) (Exoribonuclease H) (EC 3.1.13.2); Deoxyuridine 5'-triphosphate nucleotidohydrolase (dUTPase) (EC 3.6.1.23); Integrase (IN) (EC 2.7.7.-) (EC 3.1.-.-)]	pol	Feline immunodeficiency virus (isolate Petaluma) (FIV)	1124
+4fiv	Q66972	Q66972_9RETR	unreviewed	POL protein	POL	Feline immunodeficiency virus	1124
+4mdh	P11708	MDHC_PIG	reviewed	Malate dehydrogenase, cytoplasmic (EC 1.1.1.37) (Cytosolic malate dehydrogenase)	MDH1	Sus scrofa (Pig)	334
+4vhb	P04252	BAHG_VITST	reviewed	Bacterial hemoglobin (Soluble cytochrome O)	vhb	Vitreoscilla stercoraria	146
+4vub	P62554	CCDB_ECOLI	reviewed	Toxin CcdB (Cytotoxic protein CcdB) (LynB) (Protein G) (Protein LetD)	ccdB G letB letD ECOK12F043	Escherichia coli (strain K12)	101
+5enl	P00924	ENO1_YEAST	reviewed	Enolase 1 (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase 1) (2-phosphoglycerate dehydratase 1)	ENO1 ENOA HSP48 YGR254W G9160	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	437
+6csc	P23007	CISY_CHICK	reviewed	Citrate synthase, mitochondrial (EC 2.3.3.1) (Citrate (Si)-synthase)	CS	Gallus gallus (Chicken)	433
+6gsy	P04905	GSTM1_RAT	reviewed	Glutathione S-transferase Mu 1 (EC 2.5.1.18) (GST 3-3) (GSTM1-1) (Glutathione S-transferase Yb-1) (GST Yb1)	Gstm1	Rattus norvegicus (Rat)	218
+8cho	P00947	SDIS_COMTE	reviewed	Steroid Delta-isomerase (EC 5.3.3.1) (Delta(5)-3-ketosteroid isomerase)	ksi	Comamonas testosteroni (Pseudomonas testosteroni)	125
+9rub	P04718	RBL2_RHORU	reviewed	Ribulose bisphosphate carboxylase (RuBisCO) (EC 4.1.1.39)	cbbM cbbL2 rbpL	Rhodospirillum rubrum	466
